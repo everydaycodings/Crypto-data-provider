@@ -1,5 +1,14 @@
 [
     {
+        "name": "PUMLx",
+        "link": "https://icodrops.com/pumlx/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/09/toyAE4ZI_400x400-150x150.png",
+        "category": "Platform",
+        "interest": "Not Rated",
+        "goal": "$3,050,000",
+        "date": "in 8h"
+    },
+    {
         "name": "Humanode",
         "link": "https://icodrops.com/humanode/",
         "logo": "https://icodrops.com/wp-content/uploads/2020/12/Humanode_logo-150x150.jpeg",
@@ -14,7 +23,7 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/LegendsofElysium_logo-150x150.jpeg",
         "category": "Gaming",
         "interest": "Not Rated",
-        "goal": "$4,290,000",
+        "goal": "GOAL: $4,290,000",
         "date": "10 Oct"
     },
     {
@@ -41,7 +50,7 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/09/AG8EqbDP_400x400-150x150.jpg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
+        "goal": "GOAL: NOT SET",
         "date": "20 Oct"
     },
     {
@@ -252,13 +261,49 @@
         "date": "15 Dec"
     },
     {
+        "name": "Immunefi",
+        "link": "https://icodrops.com/immunefi/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/5YIOtk9N_400x400-150x150.jpg",
+        "category": "Platform",
+        "interest": "Not Rated",
+        "goal": "$29,500,000",
+        "date": "DATE: TBA"
+    },
+    {
+        "name": "Binocs",
+        "link": "https://icodrops.com/binocs/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/DQ0ypy6O_400x400-150x150.png",
+        "category": "Platform",
+        "interest": "Not Rated",
+        "goal": "$4,000,000",
+        "date": "DATE: TBA"
+    },
+    {
+        "name": "Skip Protocol",
+        "link": "https://icodrops.com/skip-protocol/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/yiBiZXOQ_400x400-150x150.jpg",
+        "category": "Protocol",
+        "interest": "Not Rated",
+        "goal": "$6,500,000",
+        "date": "DATE: TBA"
+    },
+    {
+        "name": "Nilos",
+        "link": "https://icodrops.com/nilos/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/09/J32lE0yp_400x400-150x150.jpg",
+        "category": "Platform",
+        "interest": "Not Rated",
+        "goal": "$5,200,000",
+        "date": "DATE: TBA"
+    },
+    {
         "name": "Headquarters",
         "link": "https://icodrops.com/headquarters/",
         "logo": "https://icodrops.com/wp-content/uploads/2022/09/aD7X5q0_400x400-150x150.jpg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Hyperlane",
@@ -267,7 +312,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$18,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Smoothie",
@@ -276,7 +321,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$1,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Immortal Game",
@@ -285,7 +330,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$15,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Integral",
@@ -294,7 +339,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$8,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Yellow Card",
@@ -303,7 +348,7 @@
         "category": "Exchange",
         "interest": "Not Rated",
         "goal": "$56,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Relics",
@@ -312,7 +357,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$1,100,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Magna",
@@ -321,7 +366,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$15,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Arpeggi Labs",
@@ -330,7 +375,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,100,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Portofino Technologies",
@@ -339,7 +384,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$50,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Ownera",
@@ -348,7 +393,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$20,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Sherlock",
@@ -357,7 +402,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$4,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Diamond Standard",
@@ -366,7 +411,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$30,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Synquote",
@@ -375,7 +420,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$2,800,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Doodles",
@@ -384,7 +429,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$54,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Goldsky",
@@ -393,7 +438,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$21,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Sender",
@@ -402,7 +447,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$4,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Revolving Games",
@@ -411,7 +456,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$25,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mailchain",
@@ -420,7 +465,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$4,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Exchange Art",
@@ -429,7 +474,7 @@
         "category": "Marketplace",
         "interest": "Not Rated",
         "goal": "$3,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Slide",
@@ -438,7 +483,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$12,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MetaWeb Ventures",
@@ -447,7 +492,7 @@
         "category": "Investment",
         "interest": "Not Rated",
         "goal": "$30,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Panony",
@@ -455,8 +500,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/09/bvcH-5a0_400x400-150x150.jpg",
         "category": "Investment",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Community Labs",
@@ -465,7 +510,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$30,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Hooked",
@@ -473,8 +518,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/09/HVuaCc4m_400x400-150x150.jpg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Magpie",
@@ -483,7 +528,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Spice AI",
@@ -492,7 +537,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$14,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Tesseract",
@@ -501,7 +546,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$78,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "OMNI",
@@ -510,7 +555,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$11,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Gameplay Galaxy",
@@ -519,7 +564,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$12,800,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Metaverse Magna",
@@ -528,7 +573,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$3,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Credix",
@@ -537,7 +582,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$13,750,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Dust Labs",
@@ -546,7 +591,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Space ID",
@@ -554,8 +599,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/09/6v5deH_h_400x400-150x150.png",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Collector",
@@ -564,7 +609,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$3,540,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "GoGoPool",
@@ -573,7 +618,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Koop",
@@ -582,7 +627,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Stacked",
@@ -591,7 +636,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$12,900,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Luabase",
@@ -600,7 +645,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$4,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "PROOF",
@@ -609,7 +654,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$60,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Tokenproof",
@@ -618,7 +663,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Limit Break",
@@ -627,7 +672,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$200,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Xterio",
@@ -636,7 +681,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$40,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "RedStone",
@@ -645,7 +690,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "NFT Genius",
@@ -654,7 +699,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$14,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "SolanaFM",
@@ -663,7 +708,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$4,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mellow Protocol",
@@ -672,7 +717,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$2,750,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Comm",
@@ -681,7 +726,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Zodiac World",
@@ -689,8 +734,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/08/\u0421\u043d\u0438\u043c\u043e\u043a-\u044d\u043a\u0440\u0430\u043d\u0430-2022-08-30-211523.png",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Thirdweb",
@@ -699,7 +744,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$29,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Distributed Finance",
@@ -708,7 +753,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "QUIVR",
@@ -717,7 +762,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$3,550,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Safeheron",
@@ -726,7 +771,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Primitive",
@@ -735,7 +780,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$12,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Unlockd",
@@ -744,7 +789,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$4,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mural",
@@ -753,7 +798,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Ready Player Me",
@@ -762,7 +807,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$70,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Odsy Network",
@@ -771,7 +816,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Alta Finance",
@@ -779,8 +824,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/08/p7_lEnsO_400x400-150x150.png",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Tessera",
@@ -789,7 +834,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$27,900,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MatchboxDAO",
@@ -798,7 +843,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "prePo",
@@ -807,7 +852,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$3,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Datawisp",
@@ -816,7 +861,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$3,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Uplift",
@@ -824,8 +869,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/08/QLB4qjRM_400x400-150x150.jpg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Satellite",
@@ -834,7 +879,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$10,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Jito",
@@ -843,7 +888,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$12,100,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Gunzilla",
@@ -852,7 +897,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$71,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Dojima Network",
@@ -860,8 +905,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/08/vkskDJou_400x400-150x150.jpg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Ansible Labs",
@@ -870,7 +915,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Lysto",
@@ -879,7 +924,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$12,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Ultimate",
@@ -888,7 +933,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$17,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "CreatorDAO",
@@ -897,7 +942,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$20,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "RISC Zero",
@@ -906,7 +951,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$14,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Fair.xyz",
@@ -915,7 +960,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$4,550,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MetaverseGo",
@@ -924,7 +969,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$4,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Cashmere",
@@ -933,7 +978,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Coherent",
@@ -942,7 +987,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$4,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Stride",
@@ -951,7 +996,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$6,700,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Volare Finance",
@@ -960,7 +1005,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Lifeform",
@@ -968,8 +1013,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/08/tJDE4PgA_400x400-150x150.jpg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Amulet",
@@ -978,7 +1023,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MarqVision",
@@ -987,7 +1032,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$25,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Bits Crypto",
@@ -996,7 +1041,7 @@
         "category": "Investment",
         "interest": "Not Rated",
         "goal": "$1,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Galoy",
@@ -1005,7 +1050,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Big Time",
@@ -1014,7 +1059,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$21,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "OneOf",
@@ -1023,7 +1068,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$71,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Debt DAO",
@@ -1032,7 +1077,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$3,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Ambrus Studio",
@@ -1041,7 +1086,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$65,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Quasar",
@@ -1050,7 +1095,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$6,070,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Venue One",
@@ -1059,7 +1104,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$3,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Nomad",
@@ -1068,7 +1113,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$22,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Space and Time",
@@ -1077,7 +1122,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$10,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Halliday",
@@ -1086,7 +1131,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Kresko",
@@ -1095,7 +1140,7 @@
         "category": "Platform",
         "interest": "High",
         "goal": "$2,350,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Center",
@@ -1104,7 +1149,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$11,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Obscuro",
@@ -1112,8 +1157,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/08/wGnI8m6s_400x400-150x150.jpg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Alchemon",
@@ -1122,7 +1167,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$1,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "CLST",
@@ -1130,8 +1175,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/08/NqvGDE3H_400x400-150x150.jpg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Naoris Protocol",
@@ -1140,7 +1185,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$11,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Unstoppable Domains",
@@ -1149,7 +1194,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$69,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Topl",
@@ -1158,7 +1203,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$20,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mighty Action Heroes",
@@ -1167,7 +1212,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$10,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Kima",
@@ -1176,7 +1221,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$1,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "DSCVR",
@@ -1185,7 +1230,7 @@
         "category": "Social Network",
         "interest": "Not Rated",
         "goal": "$9,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Heroes of Mavia",
@@ -1194,7 +1239,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$5,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Cardinal",
@@ -1203,7 +1248,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$4,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Bluejay",
@@ -1212,7 +1257,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$2,900,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MetaOasis DAO",
@@ -1221,7 +1266,7 @@
         "category": "Investment",
         "interest": "Not Rated",
         "goal": "$1,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "BR1 Game",
@@ -1230,7 +1275,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Nevermined",
@@ -1239,7 +1284,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Tribute Brand",
@@ -1248,7 +1293,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$4,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Change",
@@ -1257,7 +1302,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,750,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "iRocket",
@@ -1265,8 +1310,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/07/IllLdh-K_400x400-150x150.jpg",
         "category": "Gaming",
         "interest": "Not Rated",
-        "goal": "$6,600,000",
-        "date": "TBA"
+        "goal": "GOAL: $6,600,000",
+        "date": "DATE: TBA"
     },
     {
         "name": "Secure3",
@@ -1275,7 +1320,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "XLD Finance",
@@ -1284,7 +1329,7 @@
         "category": "Finance",
         "interest": "Not Rated",
         "goal": "$13,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "FitR",
@@ -1292,8 +1337,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/07/TRG2Sgsm_400x400-150x150.jpg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "SUI",
@@ -1301,8 +1346,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/07/\u0421\u043d\u0438\u043c\u043e\u043a-\u044d\u043a\u0440\u0430\u043d\u0430-2022-07-28-030109-150x150.png",
         "category": "Platform",
         "interest": "Very High",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Empiric Network",
@@ -1311,7 +1356,7 @@
         "category": "Blockchain Service",
         "interest": "High",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "ZeroDAO",
@@ -1320,7 +1365,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$1,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Draup",
@@ -1329,7 +1374,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$1,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Club",
@@ -1338,7 +1383,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$3,100,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Hologram",
@@ -1347,7 +1392,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$6,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Contango",
@@ -1356,7 +1401,7 @@
         "category": "DEX",
         "interest": "Not Rated",
         "goal": "$4,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "ZKX",
@@ -1365,7 +1410,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$4,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Farcaster",
@@ -1374,7 +1419,7 @@
         "category": "Social Network",
         "interest": "Not Rated",
         "goal": "$30,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Quadrata",
@@ -1383,7 +1428,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Morpho",
@@ -1392,7 +1437,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$18,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Gnosis Safe",
@@ -1401,7 +1446,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$100,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Li.Fi",
@@ -1410,7 +1455,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$5,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Torches",
@@ -1418,8 +1463,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/07/ha0OuBtX_400x400-150x150.jpg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Curios",
@@ -1428,7 +1473,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Salto X",
@@ -1437,7 +1482,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,290,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Metag3NCY",
@@ -1446,7 +1491,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$4,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "FlexiDAO",
@@ -1455,7 +1500,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Blocko",
@@ -1464,7 +1509,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$16,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Intros",
@@ -1473,7 +1518,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$1,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "BlockSec",
@@ -1482,7 +1527,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$8,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Crescent",
@@ -1491,7 +1536,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "DeepNFTValue",
@@ -1500,7 +1545,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$4,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Thalex",
@@ -1509,7 +1554,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$7,640,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Portalverse",
@@ -1517,8 +1562,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/07/HkPkfv4p_400x400-150x150.jpg",
         "category": "Network",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Security Token Market",
@@ -1527,7 +1572,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Autonomy",
@@ -1536,7 +1581,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$5,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Cauldron",
@@ -1545,7 +1590,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$8,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Supermojo",
@@ -1554,7 +1599,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "SEED",
@@ -1563,7 +1608,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$41,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Edverse",
@@ -1572,7 +1617,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$700,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Rubix",
@@ -1581,7 +1626,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$100,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "qiibee",
@@ -1590,7 +1635,7 @@
         "category": "Marketplace",
         "interest": "Not Rated",
         "goal": "$4,800,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Koin X",
@@ -1599,7 +1644,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$1,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "BKN301",
@@ -1608,7 +1653,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$15,650,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "H2O Securities",
@@ -1617,7 +1662,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$150,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Increment Finance",
@@ -1626,7 +1671,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$1,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Carma Community",
@@ -1634,8 +1679,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/07/ALVubyIc_400x400-150x150.jpg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Crypto Colo Center",
@@ -1644,7 +1689,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$1,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "NFT Brands",
@@ -1653,7 +1698,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$41,100,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Seso Global",
@@ -1662,7 +1707,7 @@
         "category": "Marketplace",
         "interest": "Not Rated",
         "goal": "$600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Altitude",
@@ -1671,7 +1716,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$2,100,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Echo3D",
@@ -1680,7 +1725,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$9,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Tenderize",
@@ -1689,7 +1734,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Planetarium Labs",
@@ -1698,7 +1743,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$32,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Oasys",
@@ -1707,7 +1752,7 @@
         "category": "Blockchain Platform",
         "interest": "Not Rated",
         "goal": "$20,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mona",
@@ -1716,7 +1761,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$14,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "League of Traders",
@@ -1725,7 +1770,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "NFTEye",
@@ -1734,7 +1779,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$1,650,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Entrepreneur First",
@@ -1743,7 +1788,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$170,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Fitmint",
@@ -1752,7 +1797,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$1,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Web3Games",
@@ -1761,7 +1806,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$4,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "AltLayer",
@@ -1770,7 +1815,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Soba",
@@ -1779,7 +1824,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$13,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Zenogakki",
@@ -1787,8 +1832,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/07/tMGgJ3oo_400x400-150x150.jpg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "MoHash",
@@ -1797,7 +1842,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Weather XM",
@@ -1806,7 +1851,7 @@
         "category": "Network",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Dynamic",
@@ -1815,7 +1860,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$7,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Linera",
@@ -1824,7 +1869,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Stella Fantasy",
@@ -1833,7 +1878,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Azuro",
@@ -1842,7 +1887,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$7,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Cyan",
@@ -1851,7 +1896,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,100,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "EyesFi",
@@ -1860,7 +1905,7 @@
         "category": "Platform",
         "interest": "High",
         "goal": "$2,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Astaria",
@@ -1869,7 +1914,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$8,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "TeleportDAO",
@@ -1877,8 +1922,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/06/1hPZ_BPB_400x400-150x150.jpg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Mystiko",
@@ -1886,8 +1931,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/06/r37uqwDs_400x400-150x150.jpg",
         "category": "Network",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Loop Crypto",
@@ -1896,7 +1941,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$4,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Decent",
@@ -1904,8 +1949,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/06/uEIAmbUf_400x400-150x150.jpg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "FalconX",
@@ -1914,7 +1959,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$427,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Meta One",
@@ -1923,7 +1968,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$2,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Magic Eden",
@@ -1932,7 +1977,7 @@
         "category": "Marketplace",
         "interest": "Not Rated",
         "goal": "$159,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Increment",
@@ -1941,7 +1986,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$1,560,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Afropolitan",
@@ -1950,7 +1995,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,100,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Endaoment",
@@ -1959,7 +2004,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$6,700,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "zCloak",
@@ -1968,7 +2013,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$7,100,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Soulbound",
@@ -1977,7 +2022,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$3,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "BitCraft",
@@ -1986,7 +2031,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$22,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "ScienceMagic.Studios",
@@ -1995,7 +2040,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$10,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Kaleidoco",
@@ -2004,7 +2049,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Wildcard",
@@ -2013,7 +2058,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$46,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Atmos Labs",
@@ -2022,7 +2067,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$11,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Ballet",
@@ -2031,7 +2076,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$13,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Party DAO",
@@ -2040,7 +2085,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$16,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Shil.me",
@@ -2049,7 +2094,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$1,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Tatsumeeko",
@@ -2058,7 +2103,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$7,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Orderly Network",
@@ -2067,7 +2112,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$20,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Floor",
@@ -2076,7 +2121,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$8,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Skolem Technologies",
@@ -2085,7 +2130,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$20,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Request Finance",
@@ -2094,7 +2139,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Entropy",
@@ -2103,7 +2148,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$26,950,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Samudai",
@@ -2112,7 +2157,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$2,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Backd",
@@ -2121,7 +2166,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$3,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Delphia",
@@ -2130,7 +2175,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$60,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MachineFi Lab",
@@ -2139,7 +2184,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$10,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "NVG8",
@@ -2148,7 +2193,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$7,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Geode Finance",
@@ -2157,7 +2202,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Adimverse",
@@ -2166,7 +2211,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "The Red Village",
@@ -2175,7 +2220,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$6,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Blast Royale",
@@ -2184,7 +2229,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Chillchat",
@@ -2193,7 +2238,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$8,350,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "BH Network",
@@ -2202,7 +2247,7 @@
         "category": "Marketplace",
         "interest": "Not Rated",
         "goal": "$4,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Laevitas",
@@ -2211,7 +2256,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$2,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Chibi Clash",
@@ -2220,7 +2265,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Size",
@@ -2229,7 +2274,7 @@
         "category": "Market",
         "interest": "Not Rated",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Sirius Finance",
@@ -2237,8 +2282,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/06/b3NsEhJE_400x400-150x150.jpg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Dework",
@@ -2247,7 +2292,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Liminal",
@@ -2256,7 +2301,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$4,700,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Merge",
@@ -2265,7 +2310,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$9,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Sei Network",
@@ -2274,7 +2319,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Koakuma",
@@ -2283,7 +2328,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$2,940,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Bit Rivals",
@@ -2292,7 +2337,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$1,350,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "FanTiger",
@@ -2301,7 +2346,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Blocklords",
@@ -2310,7 +2355,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$15,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Doppel",
@@ -2319,7 +2364,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Flowcarbon",
@@ -2328,7 +2373,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$70,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Bud",
@@ -2337,7 +2382,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$52,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Pebble",
@@ -2346,7 +2391,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$6,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Voyage Finance",
@@ -2355,7 +2400,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$1,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Hexagon Wireless",
@@ -2364,7 +2409,7 @@
         "category": "Network",
         "interest": "Not Rated",
         "goal": "$2,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "The Unfettered",
@@ -2373,7 +2418,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$2,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Saga",
@@ -2382,7 +2427,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$8,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Tally Labs",
@@ -2391,7 +2436,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$12,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Azra Games",
@@ -2400,7 +2445,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$15,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "BitKeep",
@@ -2409,7 +2454,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$15,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Questbook",
@@ -2418,7 +2463,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$8,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "DoraHacks",
@@ -2427,7 +2472,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$28,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Pine",
@@ -2436,7 +2481,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$1,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Zecrey",
@@ -2445,7 +2490,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$5,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "DuskBreakers",
@@ -2454,7 +2499,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$24,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Lighthouse",
@@ -2463,7 +2508,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Wayru",
@@ -2472,7 +2517,7 @@
         "category": "Network",
         "interest": "Not Rated",
         "goal": "$1,960,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Paper",
@@ -2481,7 +2526,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$9,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mara",
@@ -2490,7 +2535,7 @@
         "category": "Exchange",
         "interest": "Not Rated",
         "goal": "$23,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Moralis",
@@ -2499,7 +2544,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$53,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Branch",
@@ -2508,7 +2553,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$12,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Highlight",
@@ -2517,7 +2562,7 @@
         "category": "Blockchain Platform",
         "interest": "Not Rated",
         "goal": "$11,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Co: Create",
@@ -2526,7 +2571,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$25,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Jambo",
@@ -2535,7 +2580,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$37,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "StarryNift",
@@ -2544,7 +2589,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$10,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Ready Games",
@@ -2553,7 +2598,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$8,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mecha Fight Club",
@@ -2562,7 +2607,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$40,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Astra Protocol",
@@ -2571,7 +2616,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$9,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Argent",
@@ -2580,7 +2625,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$40,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "OurSong",
@@ -2589,7 +2634,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$7,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Scroll",
@@ -2598,7 +2643,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$33,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "InfinitySwap",
@@ -2606,8 +2651,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/InfinitySwap_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Rario",
@@ -2616,7 +2661,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$120,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "SNKRZ",
@@ -2624,8 +2669,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/SNKRZ_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Ola Guild Games",
@@ -2634,7 +2679,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$8,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "GamerGains",
@@ -2643,7 +2688,7 @@
         "category": "Advertising",
         "interest": "Not Rated",
         "goal": "$5,800,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Flowty",
@@ -2652,7 +2697,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$4,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "IPOR Labs",
@@ -2661,7 +2706,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "The Forgotten Runiverse",
@@ -2669,8 +2714,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/TheForgottenRuniverse_logo-150x150.jpeg",
         "category": "Gaming",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "CryptoStaker",
@@ -2678,8 +2723,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/CryptoStaker_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Three Sigma",
@@ -2687,8 +2732,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/ThreeSigma_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Aura Finance",
@@ -2696,8 +2741,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/AuraFinance_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Connext",
@@ -2705,8 +2750,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/Connext_logo.png",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Spruce",
@@ -2715,7 +2760,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$34,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mintbase",
@@ -2724,7 +2769,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$12,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "SupraOracles",
@@ -2732,8 +2777,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/SupraOracles_logo-150x150.png",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "FOMO Lab",
@@ -2741,8 +2786,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/FOMOLab_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Lenster",
@@ -2750,8 +2795,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/Lenster_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Jadu",
@@ -2760,7 +2805,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MetaOasis",
@@ -2768,8 +2813,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/MetaOasis_logo-150x150.jpeg",
         "category": "Gaming",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Engines of Fury",
@@ -2778,7 +2823,7 @@
         "category": "Advertising",
         "interest": "Not Rated",
         "goal": "$4,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Multis",
@@ -2787,7 +2832,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "CoinDCX",
@@ -2795,8 +2840,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/CoinDCX_logo-150x150.jpeg",
         "category": "Exchange",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "TiTi Protocol",
@@ -2805,7 +2850,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$3,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Aztec",
@@ -2814,7 +2859,7 @@
         "category": "Network",
         "interest": "Not Rated",
         "goal": "$17,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Bitso",
@@ -2823,7 +2868,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$312,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Pinata",
@@ -2832,7 +2877,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$21,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Folks Finance",
@@ -2841,7 +2886,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Ridian",
@@ -2849,8 +2894,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/Ridian_logo.png",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "DeBank",
@@ -2859,7 +2904,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$25,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Alchemy",
@@ -2868,7 +2913,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$250,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Blur",
@@ -2877,7 +2922,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$11,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Socket",
@@ -2886,7 +2931,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Crypto Valley",
@@ -2894,8 +2939,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/CryptoValley_logo-150x150.png",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Mean Finance",
@@ -2903,8 +2948,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/04/MeanFinance_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Fluid",
@@ -2912,8 +2957,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/03/Fluid_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "$10,000,000",
-        "date": "TBA"
+        "goal": "GOAL: $10,000,000",
+        "date": "DATE: TBA"
     },
     {
         "name": "MetaFi",
@@ -2921,8 +2966,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/03/MetaFi_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Fxdx.exchange",
@@ -2930,8 +2975,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/03/Fxdx.exchange_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Aptos",
@@ -2940,7 +2985,7 @@
         "category": "Blockchain Service",
         "interest": "Very High",
         "goal": "$350,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Fuel Labs",
@@ -2949,7 +2994,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$81,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "ZkLend",
@@ -2957,8 +3002,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/03/zkLend_logo-150x150.png",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Cassava Network",
@@ -2967,7 +3012,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$8,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Immunify.Life",
@@ -2976,7 +3021,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,160,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Shrapnel",
@@ -2984,8 +3029,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/03/Shrapnel_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Thetanuts Finance",
@@ -2994,7 +3039,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$18,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Amber Group",
@@ -3003,7 +3048,7 @@
         "category": "Finance",
         "interest": "Not Rated",
         "goal": "$200,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Cosmic Guild",
@@ -3012,7 +3057,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$1,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mirl",
@@ -3020,8 +3065,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/Mirl_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "$1,000,000",
-        "date": "TBA"
+        "goal": "GOAL: $1,000,000",
+        "date": "DATE: TBA"
     },
     {
         "name": "Genie",
@@ -3029,8 +3074,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/Genie_logo-150x150.png",
         "category": "Marketplace",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "0xSplits",
@@ -3038,8 +3083,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/0xSplits_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Slingshot",
@@ -3047,8 +3092,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/Slingshot_logo-150x150.png",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Rift Finance",
@@ -3057,7 +3102,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$18,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Sardine",
@@ -3066,7 +3111,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$75,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Orca Protocol",
@@ -3074,8 +3119,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/OrcaProtocol_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "LinksDAO",
@@ -3083,8 +3128,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/LinksDAO_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Lens Protocol",
@@ -3092,8 +3137,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/LensProtocol_logo-1-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Spin",
@@ -3102,7 +3147,7 @@
         "category": "DEX",
         "interest": "Not Rated",
         "goal": "$3,750,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Extend",
@@ -3110,8 +3155,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/Extend_logo-150x150.png",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Chain Of Alliance",
@@ -3120,7 +3165,7 @@
         "category": "Gaming",
         "interest": "High",
         "goal": "$2,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Bored Ape Yacht Club",
@@ -3128,8 +3173,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/BoredApeYachtClub_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "CryptoStats",
@@ -3137,8 +3182,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/CryptoStats_logo.png",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Agora City",
@@ -3146,8 +3191,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/AgoraCity_logo-150x150.png",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Gem.xyz",
@@ -3155,8 +3200,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/Gem.xyz_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Crypto Coven",
@@ -3164,8 +3209,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/CryptoCoven_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Dropp",
@@ -3174,7 +3219,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$8,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Illuminati NFT",
@@ -3182,8 +3227,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/IlluminatiNFT_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Fees.wtf",
@@ -3191,8 +3236,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/Fees.wtf_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Aperture Finance",
@@ -3200,8 +3245,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/02/ApertureFinance_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Celestia",
@@ -3209,8 +3254,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/01/Celestia_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Exotic Markets",
@@ -3219,7 +3264,7 @@
         "category": "DeFi",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Golden",
@@ -3228,7 +3273,7 @@
         "category": "Blockchain Service",
         "interest": "Very High",
         "goal": "$19,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Deftify",
@@ -3236,8 +3281,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2022/01/Deftify_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "$1,500,000",
-        "date": "TBA"
+        "goal": "GOAL: $1,500,000",
+        "date": "DATE: TBA"
     },
     {
         "name": "Salad Ventures",
@@ -3246,7 +3291,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$15,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Fractal",
@@ -3255,7 +3300,7 @@
         "category": "Marketplace",
         "interest": "Not Rated",
         "goal": "$35,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Kingdom Raids",
@@ -3264,7 +3309,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$750,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Block Earner",
@@ -3273,7 +3318,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$6,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Voltz Protocol",
@@ -3282,7 +3327,7 @@
         "category": "Market",
         "interest": "Not Rated",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Soda Protocol",
@@ -3290,8 +3335,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/12/SodaProtocol_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Subsocial",
@@ -3299,8 +3344,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/12/Subsocial_logo-150x150.png",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Defi Llama",
@@ -3308,8 +3353,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/12/DefiLlama_logo-150x150.jpeg",
         "category": "DeFi",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "MystenLabs",
@@ -3318,7 +3363,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$336,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Origyn Foundation",
@@ -3327,7 +3372,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$20,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Omnia",
@@ -3336,7 +3381,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$2,180,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "RugDoc",
@@ -3344,8 +3389,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/Rugdoc_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Poolsuite",
@@ -3353,8 +3398,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/Poolsuite_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Curvance",
@@ -3362,8 +3407,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/Curvance_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Star Sharks",
@@ -3371,8 +3416,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/StarSharks_logo-150x150.jpeg",
         "category": "Gaming",
         "interest": "Not Rated",
-        "goal": "$2,050,000",
-        "date": "TBA"
+        "goal": "GOAL: $2,050,000",
+        "date": "DATE: TBA"
     },
     {
         "name": "CityDAO",
@@ -3380,8 +3425,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/CityDAO_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "GrailersDAO",
@@ -3389,8 +3434,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/GrailersDAO_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Redacted Cartel",
@@ -3398,8 +3443,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/Redacted_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Sound.xyz",
@@ -3407,8 +3452,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/Sound.xyz_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Snapshot",
@@ -3417,7 +3462,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$4,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Wolf Game",
@@ -3425,8 +3470,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/WolfGame_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "DeFrag",
@@ -3434,8 +3479,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/DeFrag_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "BetDEX",
@@ -3444,7 +3489,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$21,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "CyberConnect",
@@ -3453,7 +3498,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$25,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Wonder",
@@ -3462,7 +3507,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Arrow Markets",
@@ -3471,7 +3516,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$1,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Polysynth",
@@ -3480,7 +3525,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$4,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MODA DAO",
@@ -3488,8 +3533,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/MODA_DAO_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "ALEX",
@@ -3498,7 +3543,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$5,800,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "ConstitutionDAO",
@@ -3507,7 +3552,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$11,560,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Goth girlfriends",
@@ -3515,8 +3560,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/Gothgfs_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Forte",
@@ -3525,7 +3570,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$725,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Massa Labs",
@@ -3534,7 +3579,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,730,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mirror World",
@@ -3543,7 +3588,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$10,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Insilico Research",
@@ -3551,8 +3596,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/InsilicoResearch_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Pulsr",
@@ -3561,7 +3606,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$2,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "WOO Network",
@@ -3570,7 +3615,7 @@
         "category": "Network",
         "interest": "Not Rated",
         "goal": "$30,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Neon Labs",
@@ -3579,7 +3624,7 @@
         "category": "Blockchain Service",
         "interest": "Very High",
         "goal": "$40,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Meow",
@@ -3588,7 +3633,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$27,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Seeded Network",
@@ -3597,7 +3642,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$1,250,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Core Loop",
@@ -3606,7 +3651,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$12,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MELD",
@@ -3614,8 +3659,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/MELD_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Cheqd",
@@ -3623,8 +3668,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/11/Cheqd_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Pendulum",
@@ -3633,7 +3678,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Corite",
@@ -3642,7 +3687,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$8,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "CRD Network",
@@ -3650,8 +3695,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/CRDNetwork_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Influence",
@@ -3659,8 +3704,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/Influence_logo-150x150.jpeg",
         "category": "Gaming",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Coordinape",
@@ -3668,8 +3713,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/Coordinape_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "DAO Masters",
@@ -3677,8 +3722,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/DAOMasters_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Cryptoys",
@@ -3687,7 +3732,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$30,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Peepeth",
@@ -3695,8 +3740,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/Peepeth_logo-150x150.jpeg",
         "category": "Social Network",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Parallel",
@@ -3705,7 +3750,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$50,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Cobo Wallet",
@@ -3714,7 +3759,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$40,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Sense Finance",
@@ -3723,7 +3768,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$5,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MonkeyBall",
@@ -3732,7 +3777,7 @@
         "category": "Gaming",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "ZkLink",
@@ -3741,7 +3786,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$8,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Worldcoin",
@@ -3750,7 +3795,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$25,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Timeswap",
@@ -3758,8 +3803,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/Timeswap_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Aelin",
@@ -3767,8 +3812,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/Aelin_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Obol Network",
@@ -3777,7 +3822,7 @@
         "category": "Network",
         "interest": "Not Rated",
         "goal": "$6,150,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "FIAT DAO",
@@ -3786,7 +3831,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Arcana Network",
@@ -3795,7 +3840,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Alty",
@@ -3804,7 +3849,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$1,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Pawnfi",
@@ -3812,8 +3857,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/PawnfiOfficial_logo-150x150.jpeg",
         "category": "Market",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Yup",
@@ -3822,7 +3867,7 @@
         "category": "Social Network",
         "interest": "Not Rated",
         "goal": "$3,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Ceramic",
@@ -3830,8 +3875,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/ceramicnetwork_logo-150x150.jpeg",
         "category": "Network",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Treeverse",
@@ -3840,7 +3885,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$25,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "reNFT",
@@ -3849,7 +3894,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$6,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Eternal",
@@ -3857,8 +3902,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/Eternal_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "OP Games",
@@ -3867,7 +3912,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$8,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Tinyman",
@@ -3876,7 +3921,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$2,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Manifold",
@@ -3884,8 +3929,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/Manifold_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Sky Mavis",
@@ -3893,8 +3938,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/SkyMavis_logo-150x150.png",
         "category": "Gaming",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Utopia Labs",
@@ -3903,7 +3948,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$23,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Drift Protocol",
@@ -3911,8 +3956,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/Drift_logo-150x150.jpeg",
         "category": "Exchange",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Wrassler",
@@ -3920,8 +3965,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/wrasslers_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Movr Network",
@@ -3929,8 +3974,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/MovrNetwork_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Derby Stars",
@@ -3938,8 +3983,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/DerbyStars_logo-150x150.jpeg",
         "category": "Gaming",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Polynomial Protocol",
@@ -3947,8 +3992,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/10/PolynomialProtocol_logo-150x150.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Kokoa Finance",
@@ -3957,7 +4002,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "CowSwap",
@@ -3965,8 +4010,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/09/CowSwap_logo-150x150.jpeg",
         "category": "Exchange",
         "interest": "High",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "PUNKS Comic",
@@ -3974,8 +4019,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/09/PUNKSComic_logo-150x150.jpeg",
         "category": "Gaming",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Coinshift",
@@ -3984,7 +4029,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$17,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "DoinGud",
@@ -3992,8 +4037,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/09/DoinGud_logo-150x150.jpeg",
         "category": "Marketplace",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Guild",
@@ -4001,8 +4046,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/09/Guild_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Spectral",
@@ -4011,7 +4056,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$29,750,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Orthogonal Trading",
@@ -4019,8 +4064,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/09/OrthogonalTrading_logo-150x150.jpeg",
         "category": "Trading",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Internet of Energy Network",
@@ -4029,7 +4074,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,800,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Angle",
@@ -4038,7 +4083,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Roll",
@@ -4047,7 +4092,7 @@
         "category": "Advertising",
         "interest": "Not Rated",
         "goal": "$10,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Avantgarde Finance",
@@ -4056,7 +4101,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "TrueLayer",
@@ -4065,7 +4110,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$130,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "LayerZero",
@@ -4074,7 +4119,7 @@
         "category": "Protocol",
         "interest": "High",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Minterest",
@@ -4083,7 +4128,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$6,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Domination Finance",
@@ -4092,7 +4137,7 @@
         "category": "DEX",
         "interest": "Not Rated",
         "goal": "$3,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Stardust",
@@ -4101,7 +4146,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Abra",
@@ -4110,7 +4155,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$85,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Vee.Finance",
@@ -4119,7 +4164,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Amberdata",
@@ -4128,7 +4173,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$15,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Apollo",
@@ -4137,7 +4182,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$2,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "X-Margin",
@@ -4146,7 +4191,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$8,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "bitsCrunch",
@@ -4155,7 +4200,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$750,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "SZNS",
@@ -4164,7 +4209,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$4,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Eden Network",
@@ -4173,7 +4218,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$17,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "deBridge",
@@ -4182,7 +4227,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$5,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "XMTP",
@@ -4191,7 +4236,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$20,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Royal",
@@ -4200,7 +4245,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$55,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Slope",
@@ -4209,7 +4254,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Kalao",
@@ -4217,8 +4262,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/08/Kalao_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "$3,150,000",
-        "date": "TBA"
+        "goal": "GOAL: $3,150,000",
+        "date": "DATE: TBA"
     },
     {
         "name": "Rise Online World",
@@ -4226,8 +4271,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/08/RiseOnlineWorld_logo-150x150.jpeg",
         "category": "Gaming",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Hedgehog",
@@ -4236,7 +4281,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,100,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "XREX",
@@ -4245,7 +4290,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$17,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Oh! Finance",
@@ -4254,7 +4299,7 @@
         "category": "DeFi",
         "interest": "Not Rated",
         "goal": "$1,090,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Chainflip",
@@ -4263,7 +4308,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "KYVE",
@@ -4272,7 +4317,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$11,800,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Dune Analytics",
@@ -4281,7 +4326,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$8,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Exactly",
@@ -4290,7 +4335,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Tally",
@@ -4299,7 +4344,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Bitwave",
@@ -4308,7 +4353,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,250,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "TaxBit",
@@ -4317,7 +4362,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$230,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Figment",
@@ -4326,7 +4371,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$50,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "DeFi Safety",
@@ -4335,7 +4380,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$1,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Horizen Labs",
@@ -4344,7 +4389,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Liquality",
@@ -4353,7 +4398,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Onramp Invest",
@@ -4362,7 +4407,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Krystal",
@@ -4371,7 +4416,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$6,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Horizon Blockchain Game",
@@ -4380,7 +4425,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$13,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "AlchemyNFT",
@@ -4389,7 +4434,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$6,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Lolli",
@@ -4398,7 +4443,7 @@
         "category": "Advertising",
         "interest": "Not Rated",
         "goal": "$10,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "ValoraApp",
@@ -4407,7 +4452,7 @@
         "category": "Wallet",
         "interest": "Not Rated",
         "goal": "$20,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Hedgehog Markets",
@@ -4416,7 +4461,7 @@
         "category": "Market",
         "interest": "Not Rated",
         "goal": "$3,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Saber Labs",
@@ -4425,7 +4470,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,700,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Magic",
@@ -4434,7 +4479,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$27,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Thesis",
@@ -4443,7 +4488,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$21,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "EthBlockArt.eth",
@@ -4451,8 +4496,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/07/EthBlockArt.eth_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "4K",
@@ -4461,7 +4506,7 @@
         "category": "Marketplace",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Virtually Human Studio",
@@ -4470,7 +4515,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$20,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Ratio Finance",
@@ -4479,7 +4524,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,250,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Visor Finance",
@@ -4488,7 +4533,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$3,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Seed Club",
@@ -4497,7 +4542,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Blocknative",
@@ -4506,7 +4551,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$12,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Clipper",
@@ -4515,7 +4560,7 @@
         "category": "DEX",
         "interest": "Not Rated",
         "goal": "$21,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "ClayStack",
@@ -4524,7 +4569,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$5,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Superfluid",
@@ -4533,7 +4578,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$9,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Reality Cards",
@@ -4541,8 +4586,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/07/RealityCards_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "NFT Oasis",
@@ -4551,7 +4596,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$4,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "WiV Technology",
@@ -4560,7 +4605,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$1,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Coincover",
@@ -4569,7 +4614,7 @@
         "category": "Advertising",
         "interest": "Not Rated",
         "goal": "$9,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Zerion",
@@ -4578,7 +4623,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$8,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Index Coop",
@@ -4587,7 +4632,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$10,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Joystream",
@@ -4596,7 +4641,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$13,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mintable",
@@ -4605,7 +4650,7 @@
         "category": "Marketplace",
         "interest": "Not Rated",
         "goal": "$13,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Parallel Finance",
@@ -4614,7 +4659,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$22,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Dexlab",
@@ -4623,7 +4668,7 @@
         "category": "Exchange",
         "interest": "Not Rated",
         "goal": "$1,440,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Coinvise",
@@ -4632,7 +4677,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Nansen",
@@ -4641,7 +4686,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$12,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Mangata",
@@ -4650,7 +4695,7 @@
         "category": "DEX",
         "interest": "Not Rated",
         "goal": "$5,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "T3rn",
@@ -4659,7 +4704,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$1,350,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "RabbitHole",
@@ -4668,7 +4713,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$3,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Risk Harbor",
@@ -4677,7 +4722,7 @@
         "category": "Marketplace",
         "interest": "Not Rated",
         "goal": "$3,250,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Yield Protocol",
@@ -4686,7 +4731,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$10,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Kaiko",
@@ -4695,7 +4740,7 @@
         "category": "Market",
         "interest": "Not Rated",
         "goal": "$24,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Tesseract",
@@ -4704,7 +4749,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$25,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Decentral Games",
@@ -4713,7 +4758,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Integritee",
@@ -4722,7 +4767,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "SynFutures",
@@ -4731,7 +4776,7 @@
         "category": "Market",
         "interest": "Not Rated",
         "goal": "$15,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Instadapp",
@@ -4740,7 +4785,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$10,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Swaperry",
@@ -4748,8 +4793,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/06/Swaperry_logo-150x150.png",
         "category": "DEX",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Creator Platform",
@@ -4758,7 +4803,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$340,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Uptick",
@@ -4766,8 +4811,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/06/Uptick_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Peaq",
@@ -4776,7 +4821,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$8,850,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Blockdaemon",
@@ -4785,7 +4830,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$183,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Flare",
@@ -4794,7 +4839,7 @@
         "category": "Network",
         "interest": "Not Rated",
         "goal": "$11,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Snickerdoodle Labs",
@@ -4803,7 +4848,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Pontem Network",
@@ -4812,7 +4857,7 @@
         "category": "Network",
         "interest": "Not Rated",
         "goal": "$4,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Matrix",
@@ -4820,8 +4865,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/05/Matrix_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Koi Protocol",
@@ -4829,8 +4874,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/05/Koi_logo.jpeg",
         "category": "Protocol",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Qilin",
@@ -4839,7 +4884,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$800,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "everFinance",
@@ -4847,8 +4892,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/05/everFinance_logo-150x150.jpeg",
         "category": "Finance",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Solidus Labs",
@@ -4857,7 +4902,7 @@
         "category": "Market",
         "interest": "Not Rated",
         "goal": "$20,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Certora",
@@ -4866,7 +4911,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$43,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Tibles",
@@ -4875,7 +4920,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$1,140,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MCDEX",
@@ -4884,7 +4929,7 @@
         "category": "Exchange",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "TWO TWO",
@@ -4892,8 +4937,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/05/TWOTWO_logo-150x150.png",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "$2,090,000",
-        "date": "TBA"
+        "goal": "GOAL: $2,090,000",
+        "date": "DATE: TBA"
     },
     {
         "name": "Vertalo",
@@ -4902,7 +4947,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$5,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Suterusu",
@@ -4910,8 +4955,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/05/Suterusu_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Zapper",
@@ -4920,7 +4965,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$15,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Commonwealth",
@@ -4929,7 +4974,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$23,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Liquefy",
@@ -4937,8 +4982,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/05/Liquefy_logo-150x150.png",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Animoca Brands",
@@ -4947,7 +4992,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$88,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Jenny Metaverse",
@@ -4956,7 +5001,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$7,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Hashdex",
@@ -4965,7 +5010,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$26,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Showtime",
@@ -4974,7 +5019,7 @@
         "category": "Social Network",
         "interest": "Not Rated",
         "goal": "$7,600,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "HashMix",
@@ -4983,7 +5028,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Universe.XYZ",
@@ -4991,8 +5036,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/05/Universe.XYZ_logo-150x150.jpeg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "Babel Finance",
@@ -5001,7 +5046,7 @@
         "category": "Currency",
         "interest": "Not Rated",
         "goal": "$120,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Burnt Finance",
@@ -5010,7 +5055,7 @@
         "category": "Protocol",
         "interest": "High",
         "goal": "$11,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Bitski",
@@ -5019,7 +5064,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$22,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Upshot",
@@ -5028,7 +5073,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$29,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "RTFKT Studios",
@@ -5037,7 +5082,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$11,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Notional Finance",
@@ -5046,7 +5091,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$10,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Aleo",
@@ -5055,7 +5100,7 @@
         "category": "Platform",
         "interest": "Very High",
         "goal": "$228,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Nerve Finance",
@@ -5064,7 +5109,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Treasureland",
@@ -5073,7 +5118,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$1,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Dexguru",
@@ -5082,7 +5127,7 @@
         "category": "Trading",
         "interest": "Not Rated",
         "goal": "$1,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Prysm",
@@ -5091,7 +5136,7 @@
         "category": "Trading",
         "interest": "Not Rated",
         "goal": "$3,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Element Finance",
@@ -5100,7 +5145,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$32,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Sigmadex",
@@ -5109,7 +5154,7 @@
         "category": "Marketplace",
         "interest": "Not Rated",
         "goal": "$4,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Tacen",
@@ -5118,7 +5163,7 @@
         "category": "Exchange",
         "interest": "Not Rated",
         "goal": "$2,300,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Bware Labs",
@@ -5127,7 +5172,7 @@
         "category": "Blockchain Platform",
         "interest": "Not Rated",
         "goal": "$7,200,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "dTrade",
@@ -5136,7 +5181,7 @@
         "category": "Exchange",
         "interest": "Not Rated",
         "goal": "$22,800,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Sommelier",
@@ -5145,7 +5190,7 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$26,500,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Swivel Finance",
@@ -5154,7 +5199,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$4,650,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "ECO",
@@ -5163,7 +5208,7 @@
         "category": "Blockchain Service",
         "interest": "Very High",
         "goal": "$35,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "CoinFLEX",
@@ -5172,7 +5217,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "$11,250,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "MetaMask",
@@ -5180,8 +5225,8 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/01/MetaMask_logo-150x150.jpg",
         "category": "Wallet",
         "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "TBA"
+        "goal": "GOAL: NOT SET",
+        "date": "DATE: TBA"
     },
     {
         "name": "zkSync",
@@ -5190,7 +5235,7 @@
         "category": "Protocol",
         "interest": "Very High",
         "goal": "$50,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Liquity",
@@ -5199,7 +5244,7 @@
         "category": "Protocol",
         "interest": "Not Rated",
         "goal": "$8,400,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Teller Finance",
@@ -5208,7 +5253,7 @@
         "category": "DeFi",
         "interest": "Not Rated",
         "goal": "$7,850,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "Republic Note",
@@ -5217,7 +5262,7 @@
         "category": "Investment",
         "interest": "High",
         "goal": "$47,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     },
     {
         "name": "StarkWare",
@@ -5226,6 +5271,6 @@
         "category": "Blockchain Service",
         "interest": "Watch List",
         "goal": "$273,000,000",
-        "date": "TBA"
+        "date": "DATE: TBA"
     }
 ]
