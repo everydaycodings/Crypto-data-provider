@@ -3,15 +3,15 @@
     "data": [
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/9/1/f/2/e/asset14y0dxsz9s9nd2lefkqvuu7edqlsg5p70r3wyxa.png\"> <a class=\"d-none d-md-inline\" href=\"https://raynetwork.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"XRAY is a governance token that powers Ray Network ecosystem. This is well positioned for community-led growth, development, and self-sustainability token., Policy: ae2a0aa5a24b27d9868c4a73b7c08077ac21baade5eca0fa467a2bbd, Quantity: 104.54M, Mints: 8\" href=\"/asset/asset14y0dxsz9s9nd2lefkqvuu7edqlsg5p70r3wyxa\">[XRAY] <span class=\"d-none d-md-inline\">XRAY</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset14y0dxsz9s9nd2lefkqvuu7edqlsg5p70r3wyxa\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset14y0dxsz9s9nd2lefkqvuu7edqlsg5p70r3wyxa\"></i> asset14y0d...3wyxa</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"146,522.00\">146.<small class=\"text-muted\">52</small>k</span>\u20b3",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"145,142.00\">145.<small class=\"text-muted\">14</small>k</span>\u20b3",
             "price": "0<small class=\"text-muted\">.068780</small>\u20b3<br /><small class=\"text-primary\">$0.029317</small>",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"943.00\">943</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"6,112.00\">6.<small class=\"text-muted\">11</small>k</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"104,538,200.00\">104.<small class=\"text-muted\">54</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"7,190,175.11\">7.<small class=\"text-muted\">19</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-6.74%</span>",
+            "1_day_change": "<span class=\"text-danger\">-6.39%</span>",
             "3_day_change": "<span class=\"text-danger\">-10.27%</span>",
-            "7_day_change": "<span class=\"text-danger\">-10.91%</span>"
+            "7_day_change": "<span class=\"text-danger\">-10.89%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/c/2/6/a/1/asset13epqecv5e2zqgzaxju0x4wqku0tka60wwpc52z.png\"> <a class=\"d-none d-md-inline\" href=\"https://liqwid.finance?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Algorithmic, non-custodial liquidity protocol for lending and borrowing on Cardano., Policy: da8c30857834c6ae7203935b89278c532b3995245295456f993e1d24, Quantity: 21.00M, Mints: 1\" href=\"/asset/asset13epqecv5e2zqgzaxju0x4wqku0tka60wwpc52z\">[LQ] <span class=\"d-none d-md-inline\">Liqwid DAO Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset13epqecv5e2zqgzaxju0x4wqku0tka60wwpc52z\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset13epqecv5e2zqgzaxju0x4wqku0tka60wwpc52z\"></i> asset13epq...pc52z</div>",
@@ -21,8 +21,8 @@
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"7,431.00\">7.<small class=\"text-muted\">43</small>k</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"21,000,000.00\">21.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"1,260,264,600.00\">1.<small class=\"text-muted\">26</small>B</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-0.17%</span>",
-            "3_day_change": "<span class=\"text-danger\">-1.33%</span>",
+            "1_day_change": "<span class=\"text-danger\">-0.12%</span>",
+            "3_day_change": "<span class=\"text-danger\">-1.32%</span>",
             "7_day_change": "<span class=\"text-danger\">-2.34%</span>"
         },
         {
@@ -39,27 +39,27 @@
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/4/5/e/b/7/asset1zvn33mj5kzgxtct7jr5qjyefu9ewk22xp0s0yw.png\"> <a class=\"d-none d-md-inline\" href=\"https://meld.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The governance token of the MELD protocol., Policy: 6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d10, Quantity: 4.00B, Mints: 1\" href=\"/asset/asset1zvn33mj5kzgxtct7jr5qjyefu9ewk22xp0s0yw\">[MELD] <span class=\"d-none d-md-inline\">MELD</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1zvn33mj5kzgxtct7jr5qjyefu9ewk22xp0s0yw\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1zvn33mj5kzgxtct7jr5qjyefu9ewk22xp0s0yw\"></i> asset1zvn3...0s0yw</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"46,530.00\">46.<small class=\"text-muted\">53</small>k</span>\u20b3",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"46,248.00\">46.<small class=\"text-muted\">25</small>k</span>\u20b3",
             "price": "0<small class=\"text-muted\">.054500</small>\u20b3<br /><small class=\"text-primary\">$0.023230</small>",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"2,170.00\">2.<small class=\"text-muted\">17</small>k</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"38,288.00\">38.<small class=\"text-muted\">29</small>k</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"4,000,000,000.00\">4.<small class=\"text-muted\">00</small>B</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"218,000,000.00\">218.<small class=\"text-muted\">00</small>M</span>\u20b3",
             "1_day_change": "<span class=\"text-success\">0.18%</span>",
-            "3_day_change": "<span class=\"text-success\">4.01%</span>",
-            "7_day_change": "<span class=\"text-success\">12.37%</span>"
+            "3_day_change": "<span class=\"text-success\">3.81%</span>",
+            "7_day_change": "<span class=\"text-success\">12.14%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/5/f/5/4/7/asset1y7lphaaxkvjw5hl2kpq37nvlvg09qfqsh4qyme.png\"> <a class=\"d-none d-md-inline\" href=\"https://raynetwork.io/xdiamond/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"A wonderful NFT token that allows you to boost APY on RayStake.io. Can be redeemed for an XRAY. A real diamond!, Policy: b6798a74fb7441ef5f7af1ff4ea6150bbb7aaeb0aca0113e558592f6, Quantity: 31.00k, Mints: 3\" href=\"/asset/asset1y7lphaaxkvjw5hl2kpq37nvlvg09qfqsh4qyme\">[XDIAMOND] <span class=\"d-none d-md-inline\">XDIAMOND</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1y7lphaaxkvjw5hl2kpq37nvlvg09qfqsh4qyme\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1y7lphaaxkvjw5hl2kpq37nvlvg09qfqsh4qyme\"></i> asset1y7lp...4qyme</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"42,144.00\">42.<small class=\"text-muted\">14</small>k</span>\u20b3",
-            "price": "195<small class=\"text-muted\">.402480</small>\u20b3<br /><small class=\"text-primary\">$83.289199</small>",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"42,342.00\">42.<small class=\"text-muted\">34</small>k</span>\u20b3",
+            "price": "197<small class=\"text-muted\">.259647</small>\u20b3<br /><small class=\"text-primary\">$84.080806</small>",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"150.00\">150</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"1,006.00\">1.<small class=\"text-muted\">01</small>k</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"31,000.00\">31.<small class=\"text-muted\">00</small>k</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"6,057,476.88\">6.<small class=\"text-muted\">06</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-success\">1.11%</span>",
-            "3_day_change": "<span class=\"text-success\">0.76%</span>",
-            "7_day_change": "<span class=\"text-danger\">-0.45%</span>"
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"6,115,049.04\">6.<small class=\"text-muted\">12</small>M</span>\u20b3",
+            "1_day_change": "<span class=\"text-success\">1.98%</span>",
+            "3_day_change": "<span class=\"text-success\">1.66%</span>",
+            "7_day_change": "<span class=\"text-success\">0.72%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/f/d/f/2/3/asset13ld64lsa4xrwk8ws7kjhtwzyefpag0p88gw6jp.png\"> <a class=\"d-none d-md-inline\" href=\"https://gerowallet.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Governance Token of GERO Ecosystem, Policy: 10a49b996e2402269af553a8a96fb8eb90d79e9eca79e2b4223057b6, Quantity: 500.00M, Mints: 2\" href=\"/asset/asset13ld64lsa4xrwk8ws7kjhtwzyefpag0p88gw6jp\">[GERO] <span class=\"d-none d-md-inline\">GERO</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset13ld64lsa4xrwk8ws7kjhtwzyefpag0p88gw6jp\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset13ld64lsa4xrwk8ws7kjhtwzyefpag0p88gw6jp\"></i> asset13ld6...gw6jp</div>",
@@ -81,25 +81,25 @@
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"9,588.00\">9.<small class=\"text-muted\">59</small>k</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"100,000,000.00\">100.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"35,110,000.00\">35.<small class=\"text-muted\">11</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-0.31%</span>",
+            "1_day_change": "<span class=\"text-danger\">-0.28%</span>",
             "3_day_change": "<span class=\"text-success\">0.26%</span>",
             "7_day_change": "<span class=\"text-danger\">-0.28%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/4/2/3/5/e/asset1hflwqlm000r8s9jvnr7lmzdrtajmjx33d80qf4.png\"> <a class=\"d-none d-md-inline\" href=\"https://virtuallymade.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Greens - The fuel for Virtually Made&#039;s ecosystem., Policy: 4623ab311b7d982d8d26fcbe1a9439ca56661aafcdcd8d8a0ef31fd6, Quantity: 210.00M, Mints: 1\" href=\"/asset/asset1hflwqlm000r8s9jvnr7lmzdrtajmjx33d80qf4\">[GREENS] <span class=\"d-none d-md-inline\">Greens</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1hflwqlm000r8s9jvnr7lmzdrtajmjx33d80qf4\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1hflwqlm000r8s9jvnr7lmzdrtajmjx33d80qf4\"></i> asset1hflw...80qf4</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"23,711.00\">23.<small class=\"text-muted\">71</small>k</span>\u20b3",
-            "price": "0<small class=\"text-muted\">.055500</small>\u20b3<br /><small class=\"text-primary\">$0.023657</small>",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"24,364.00\">24.<small class=\"text-muted\">36</small>k</span>\u20b3",
+            "price": "0<small class=\"text-muted\">.054500</small>\u20b3<br /><small class=\"text-primary\">$0.023230</small>",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"395.00\">395</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"473.00\">473</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"210,000,000.00\">210.<small class=\"text-muted\">00</small>M</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"11,655,000.00\">11.<small class=\"text-muted\">66</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-4.15%</span>",
-            "3_day_change": "<span class=\"text-danger\">-12.32%</span>",
-            "7_day_change": "<span class=\"text-success\">12.12%</span>"
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"11,445,000.00\">11.<small class=\"text-muted\">45</small>M</span>\u20b3",
+            "1_day_change": "<span class=\"text-danger\">-5.38%</span>",
+            "3_day_change": "<span class=\"text-danger\">-13.9%</span>",
+            "7_day_change": "<span class=\"text-success\">9.88%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/7/a/d/5/5/asset1m4u92ke6820pkk07m8qmmguye02ewr8g6tezr0.png\"> <a class=\"d-none d-md-inline\" href=\"https://sundaeswap.finance?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"SundaeSwap is a decentralized exchange and liquidity provision protocol. SundaeSwap DAO Token allows holders to participate in SundaeSwap governance and additional features introduced by the DAO., Policy: 9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d77, Quantity: 2.00B, Mints: 1\" href=\"/asset/asset1m4u92ke6820pkk07m8qmmguye02ewr8g6tezr0\">[SUNDAE] <span class=\"d-none d-md-inline\">SUNDAE</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1m4u92ke6820pkk07m8qmmguye02ewr8g6tezr0\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1m4u92ke6820pkk07m8qmmguye02ewr8g6tezr0\"></i> asset1m4u9...tezr0</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"20,458.00\">20.<small class=\"text-muted\">46</small>k</span>\u20b3",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"20,984.00\">20.<small class=\"text-muted\">98</small>k</span>\u20b3",
             "price": "0<small class=\"text-muted\">.058600</small>\u20b3<br /><small class=\"text-primary\">$0.024978</small>",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"3,173.00\">3.<small class=\"text-muted\">17</small>k</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"85,566.00\">85.<small class=\"text-muted\">57</small>k</span>",
@@ -117,9 +117,9 @@
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"646.00\">646</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"9,223,372,036,854.78\">9.<small class=\"text-muted\">22</small>T</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"2,871,235,715,072.89\">2.<small class=\"text-muted\">87</small>T</span>\u20b3",
-            "1_day_change": "<span class=\"text-success\">1.43%</span>",
-            "3_day_change": "<span class=\"text-success\">1.14%</span>",
-            "7_day_change": "<span class=\"text-success\">1.53%</span>"
+            "1_day_change": "<span class=\"text-success\">1.2%</span>",
+            "3_day_change": "<span class=\"text-success\">1.07%</span>",
+            "7_day_change": "<span class=\"text-success\">1.43%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/d/e/0/c/0/asset1pwhywk7x54g739z3dqs245q62yu47vjh8gapjv.png\"> <a class=\"d-none d-md-inline\" href=\"https://ada.muesliswap.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The utility token powering the MuesliSwap ecosystem., Policy: 8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa, Quantity: 10.00M, Mints: 75\" href=\"/asset/asset1pwhywk7x54g739z3dqs245q62yu47vjh8gapjv\">[MILK] <span class=\"d-none d-md-inline\">MILK</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1pwhywk7x54g739z3dqs245q62yu47vjh8gapjv\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1pwhywk7x54g739z3dqs245q62yu47vjh8gapjv\"></i> asset1pwhy...gapjv</div>",
@@ -129,8 +129,8 @@
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"6,308.00\">6.<small class=\"text-muted\">31</small>k</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"10,000,000.00\">10.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"32,352,765.33\">32.<small class=\"text-muted\">35</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-0.2%</span>",
-            "3_day_change": "<span class=\"text-success\">1.1%</span>",
+            "1_day_change": "<span class=\"text-danger\">-0.32%</span>",
+            "3_day_change": "<span class=\"text-success\">1.06%</span>",
             "7_day_change": "<span class=\"text-success\">2.96%</span>"
         },
         {
@@ -146,18 +146,6 @@
             "7_day_change": "<span class=\"text-success\">9.09%</span>"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/d/0/a/3/7/asset1lgultx63fukjlhsncmwp235pcnh4fh988phh7f.png\"> <a class=\"d-none d-md-inline\" href=\"https://nmkr.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The official NMKR Token, Policy: 5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc92843489, Quantity: 2.19B, Mints: 6404\" href=\"/asset/asset1lgultx63fukjlhsncmwp235pcnh4fh988phh7f\">[NMKR] <span class=\"d-none d-md-inline\">NMKR</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1lgultx63fukjlhsncmwp235pcnh4fh988phh7f\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1lgultx63fukjlhsncmwp235pcnh4fh988phh7f\"></i> asset1lgul...phh7f</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"11,268.00\">11.<small class=\"text-muted\">27</small>k</span>\u20b3",
-            "price": "0<small class=\"text-muted\">.008700</small>\u20b3<br /><small class=\"text-primary\">$0.003708</small>",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"2,567.00\">2.<small class=\"text-muted\">57</small>k</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"5,302.00\">5.<small class=\"text-muted\">30</small>k</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"2,190,406,785.12\">2.<small class=\"text-muted\">19</small>B</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"19,056,539.03\">19.<small class=\"text-muted\">06</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-2.25%</span>",
-            "3_day_change": "<span class=\"text-danger\">-1.14%</span>",
-            "7_day_change": "<span class=\"text-danger\">-2.25%</span>"
-        },
-        {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/b/a/3/4/4/asset1cwf8cjzvmsjydlsawx3lgujmrwdl2uz8exclkl.png\"> <a class=\"d-none d-md-inline\" href=\"https://ardana.org?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Ardana is the decentralized stablecoin ecosystem for Cardano, Policy: c88bbd1848db5ea665b1fffbefba86e8dcd723b5085348e8a8d2260f, Quantity: 125.00M, Mints: 1\" href=\"/asset/asset1cwf8cjzvmsjydlsawx3lgujmrwdl2uz8exclkl\">[DANA] <span class=\"d-none d-md-inline\">DANA</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1cwf8cjzvmsjydlsawx3lgujmrwdl2uz8exclkl\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1cwf8cjzvmsjydlsawx3lgujmrwdl2uz8exclkl\"></i> asset1cwf8...xclkl</div>",
             "volume": "<span data-bs-toggle=\"tooltip\" title=\"10,855.00\">10.<small class=\"text-muted\">86</small>k</span>\u20b3",
             "price": "0<small class=\"text-muted\">.367600</small>\u20b3<br /><small class=\"text-primary\">$0.156687</small>",
@@ -166,20 +154,20 @@
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"125,000,000.00\">125.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"45,950,000.00\">45.<small class=\"text-muted\">95</small>M</span>\u20b3",
             "1_day_change": "<span class=\"text-danger\">-5.04%</span>",
-            "3_day_change": "<span class=\"text-danger\">-5.72%</span>",
+            "3_day_change": "<span class=\"text-danger\">-5.77%</span>",
             "7_day_change": "<span class=\"text-danger\">-5.98%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/a/6/1/e/0/asset1sdzme5cnwgqk6u94k0fnlymenvnvfv3jm78dcz.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.claynation.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Governance and Utility Token of Clay Nation, Policy: 38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535, Quantity: 2.50B, Mints: 1\" href=\"/asset/asset1sdzme5cnwgqk6u94k0fnlymenvnvfv3jm78dcz\">[CLAY] <span class=\"d-none d-md-inline\">CLAY</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1sdzme5cnwgqk6u94k0fnlymenvnvfv3jm78dcz\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1sdzme5cnwgqk6u94k0fnlymenvnvfv3jm78dcz\"></i> asset1sdzm...78dcz</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"9,690.00\">9.<small class=\"text-muted\">69</small>k</span>\u20b3",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"9,588.00\">9.<small class=\"text-muted\">59</small>k</span>\u20b3",
             "price": "0<small class=\"text-muted\">.022008</small>\u20b3<br /><small class=\"text-primary\">$0.009381</small>",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"1,552.00\">1.<small class=\"text-muted\">55</small>k</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"8,619.00\">8.<small class=\"text-muted\">62</small>k</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"2,500,000,000.00\">2.<small class=\"text-muted\">50</small>B</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"55,020,000.00\">55.<small class=\"text-muted\">02</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-0.51%</span>",
-            "3_day_change": "<span class=\"text-success\">6.92%</span>",
-            "7_day_change": "<span class=\"text-success\">9.39%</span>"
+            "1_day_change": "<span class=\"text-danger\">-0.93%</span>",
+            "3_day_change": "<span class=\"text-success\">6.88%</span>",
+            "7_day_change": "<span class=\"text-success\">9.4%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/b/f/2/3/9/asset1c6uau7pufsxhnm7eg0eerhu4snwfd9sn7kvvvz.png\">  <a data-bs-toggle=\"tooltip\" title=\"Cornucopias\u2019 \u201cThe Island\u201d is a massive Play-to-Earn (P2E), Build-to-Earn (B2E), and Learn-to-Earn (L2E) blockchain-based game in which players can be rewarded with and/or own land, properties and other NFT-based assets with real world value, all by playing games in a fun and safe metaverse., Policy: b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0, Quantity: 40.00M, Mints: 3\" href=\"/asset/asset1c6uau7pufsxhnm7eg0eerhu4snwfd9sn7kvvvz\">[COPI] <span class=\"d-none d-md-inline\">Cornucopias Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1c6uau7pufsxhnm7eg0eerhu4snwfd9sn7kvvvz\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1c6uau7pufsxhnm7eg0eerhu4snwfd9sn7kvvvz\"></i> asset1c6ua...kvvvz</div>",
@@ -190,32 +178,44 @@
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"40,000,005.00\">40.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"3,988,000.50\">3.<small class=\"text-muted\">99</small>M</span>\u20b3",
             "1_day_change": "<span class=\"text-success\">2.05%</span>",
-            "3_day_change": "<span class=\"text-danger\">-0.6%</span>",
+            "3_day_change": "<span class=\"text-danger\">-0.5%</span>",
             "7_day_change": "<span class=\"text-danger\">-4.5%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/d/5/3/3/0/asset1khk46tdfsknze9k84ae0ee0k2x8mcwhz93k70d.png\"> <a class=\"d-none d-md-inline\" href=\"https://aada.finance?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Aada Finance is a Decentralized, non-custodial, NFT-bond based Lending and Borrowing protocol built on Cardano. AADA Token allows to participate in Aada&#039;s governance, on-site staking, and pay fees in the NFT-bond marketplace., Policy: 8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f69587, Quantity: 29.50M, Mints: 1\" href=\"/asset/asset1khk46tdfsknze9k84ae0ee0k2x8mcwhz93k70d\">[AADA] <span class=\"d-none d-md-inline\">Aada DAO Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1khk46tdfsknze9k84ae0ee0k2x8mcwhz93k70d\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1khk46tdfsknze9k84ae0ee0k2x8mcwhz93k70d\"></i> asset1khk4...3k70d</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"8,962.00\">8.<small class=\"text-muted\">96</small>k</span>\u20b3",
-            "price": "1<small class=\"text-muted\">.123900</small>\u20b3<br /><small class=\"text-primary\">$0.479056</small>",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"9,047.00\">9.<small class=\"text-muted\">05</small>k</span>\u20b3",
+            "price": "1<small class=\"text-muted\">.156900</small>\u20b3<br /><small class=\"text-primary\">$0.493122</small>",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"1,272.00\">1.<small class=\"text-muted\">27</small>k</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"5,476.00\">5.<small class=\"text-muted\">48</small>k</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"29,500,000.00\">29.<small class=\"text-muted\">50</small>M</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"33,155,050.00\">33.<small class=\"text-muted\">16</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-0.66%</span>",
-            "3_day_change": "<span class=\"text-danger\">-3.39%</span>",
-            "7_day_change": "<span class=\"text-danger\">-8.55%</span>"
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"34,128,550.00\">34.<small class=\"text-muted\">13</small>M</span>\u20b3",
+            "1_day_change": "<span class=\"text-success\">2.26%</span>",
+            "3_day_change": "<span class=\"text-danger\">-0.46%</span>",
+            "7_day_change": "<span class=\"text-danger\">-5.68%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/6/5/2/d/9/asset1qjflf9fs3x8rmlnacz2r6xdur0wtxmssan8u8p.png\"> <a class=\"d-none d-md-inline\" href=\"https://charli3.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The Charli3 Oracle token., Policy: 8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a, Quantity: 100.00M, Mints: 4\" href=\"/asset/asset1qjflf9fs3x8rmlnacz2r6xdur0wtxmssan8u8p\">[C3] <span class=\"d-none d-md-inline\">CHARLI3</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1qjflf9fs3x8rmlnacz2r6xdur0wtxmssan8u8p\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1qjflf9fs3x8rmlnacz2r6xdur0wtxmssan8u8p\"></i> asset1qjfl...n8u8p</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"8,333.00\">8.<small class=\"text-muted\">33</small>k</span>\u20b3",
-            "price": "0<small class=\"text-muted\">.421300</small>\u20b3<br /><small class=\"text-primary\">$0.179577</small>",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"8,753.00\">8.<small class=\"text-muted\">75</small>k</span>\u20b3",
+            "price": "0<small class=\"text-muted\">.420800</small>\u20b3<br /><small class=\"text-primary\">$0.179364</small>",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"500.00\">500</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"1,714.00\">1.<small class=\"text-muted\">71</small>k</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"100,000,000.00\">100.<small class=\"text-muted\">00</small>M</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"42,130,000.00\">42.<small class=\"text-muted\">13</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-success\">0.21%</span>",
-            "3_day_change": "<span class=\"text-danger\">-0.21%</span>",
-            "7_day_change": "<span class=\"text-danger\">-0.33%</span>"
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"42,080,000.00\">42.<small class=\"text-muted\">08</small>M</span>\u20b3",
+            "1_day_change": "<span class=\"text-warning\">0.1%</span>",
+            "3_day_change": "<span class=\"text-danger\">-0.28%</span>",
+            "7_day_change": "<span class=\"text-danger\">-0.45%</span>"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/d/0/a/3/7/asset1lgultx63fukjlhsncmwp235pcnh4fh988phh7f.png\"> <a class=\"d-none d-md-inline\" href=\"https://nmkr.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The official NMKR Token, Policy: 5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc92843489, Quantity: 2.19B, Mints: 6404\" href=\"/asset/asset1lgultx63fukjlhsncmwp235pcnh4fh988phh7f\">[NMKR] <span class=\"d-none d-md-inline\">NMKR</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1lgultx63fukjlhsncmwp235pcnh4fh988phh7f\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1lgultx63fukjlhsncmwp235pcnh4fh988phh7f\"></i> asset1lgul...phh7f</div>",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"8,719.00\">8.<small class=\"text-muted\">72</small>k</span>\u20b3",
+            "price": "0<small class=\"text-muted\">.008800</small>\u20b3<br /><small class=\"text-primary\">$0.003751</small>",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"2,567.00\">2.<small class=\"text-muted\">57</small>k</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"5,302.00\">5.<small class=\"text-muted\">30</small>k</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"2,190,406,785.12\">2.<small class=\"text-muted\">19</small>B</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"19,275,579.71\">19.<small class=\"text-muted\">28</small>M</span>\u20b3",
+            "1_day_change": "<span class=\"text-danger\">-1.12%</span>",
+            "3_day_change": "-",
+            "7_day_change": "<span class=\"text-danger\">-1.12%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/4/8/7/5/e/asset1y3d4wc7yr6qeu4d2u3g8js0gzy6nhhlww4mafl.png\"> <a class=\"d-none d-md-inline\" href=\"https://cardashift.com/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Utility token of the Cardashift ecosystem, Policy: db30c7905f598ed0154de14f970de0f61f0cb3943ed82c891968480a, Quantity: 1.00B, Mints: 1\" href=\"/asset/asset1y3d4wc7yr6qeu4d2u3g8js0gzy6nhhlww4mafl\">[CLAP] <span class=\"d-none d-md-inline\">CLAP</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1y3d4wc7yr6qeu4d2u3g8js0gzy6nhhlww4mafl\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1y3d4wc7yr6qeu4d2u3g8js0gzy6nhhlww4mafl\"></i> asset1y3d4...4mafl</div>",
@@ -227,7 +227,7 @@
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"18,740,300.00\">18.<small class=\"text-muted\">74</small>M</span>\u20b3",
             "1_day_change": "<span class=\"text-danger\">-0.18%</span>",
             "3_day_change": "<span class=\"text-success\">1.43%</span>",
-            "7_day_change": "<span class=\"text-success\">1.45%</span>"
+            "7_day_change": "<span class=\"text-success\">1.46%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/d/7/3/6/5/asset1tv2j54daupnag632vl838es282duv3p8em3d3y.png\">  <a data-bs-toggle=\"tooltip\" title=\"Tether USD bridged through Nomad, Policy: 25ff9715e1619277ef98c49a16f75d9dc430895504a82febb57e4713, Quantity: 9.22T, Mints: 1\" href=\"/asset/asset1tv2j54daupnag632vl838es282duv3p8em3d3y\">[madUSDT] <span class=\"d-none d-md-inline\">USDT (Nomad)</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1tv2j54daupnag632vl838es282duv3p8em3d3y\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1tv2j54daupnag632vl838es282duv3p8em3d3y\"></i> asset1tv2j...m3d3y</div>",
@@ -237,9 +237,9 @@
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"186.00\">186</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"9,223,372,036,854.78\">9.<small class=\"text-muted\">22</small>T</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"8,471,667,215,851.11\">8.<small class=\"text-muted\">47</small>T</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-2.52%</span>",
-            "3_day_change": "<span class=\"text-danger\">-1.36%</span>",
-            "7_day_change": "<span class=\"text-success\">0.54%</span>"
+            "1_day_change": "<span class=\"text-danger\">-2.28%</span>",
+            "3_day_change": "<span class=\"text-danger\">-1.31%</span>",
+            "7_day_change": "<span class=\"text-success\">0.6%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/e/e/0/f/f/asset1egql6c8lsrdk0qxhgazgsd7tpz50gt3ypyfcq3.png\"> <a class=\"d-none d-md-inline\" href=\"https://blueshift.fi/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Blueshift is a decentralized exchange and a new-generation crypto asset management protocol based on liquidity portfolios., Policy: e043fd7b2076ea9e1b279d200b59e153bf6b299a72ce6e2c14aeb790, Quantity: 100.00M, Mints: 1\" href=\"/asset/asset1egql6c8lsrdk0qxhgazgsd7tpz50gt3ypyfcq3\">[BLUES] <span class=\"d-none d-md-inline\">BLUES</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1egql6c8lsrdk0qxhgazgsd7tpz50gt3ypyfcq3\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1egql6c8lsrdk0qxhgazgsd7tpz50gt3ypyfcq3\"></i> asset1egql...yfcq3</div>",
@@ -255,7 +255,7 @@
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/3/a/7/5/a/asset1d9v7aptfvpx7we2la8f25kwprkj2ma5rp6uwzv.png\"> <a class=\"d-none d-md-inline\" href=\"https://minswap.org/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Minswap is a multi-pool decentralize exchange protocol on Cardano, Policy: 29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c6, Quantity: 5.00B, Mints: 3\" href=\"/asset/asset1d9v7aptfvpx7we2la8f25kwprkj2ma5rp6uwzv\">[MIN] <span class=\"d-none d-md-inline\">Minswap</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1d9v7aptfvpx7we2la8f25kwprkj2ma5rp6uwzv\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1d9v7aptfvpx7we2la8f25kwprkj2ma5rp6uwzv\"></i> asset1d9v7...6uwzv</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"5,688.00\">5.<small class=\"text-muted\">69</small>k</span>\u20b3",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"5,708.00\">5.<small class=\"text-muted\">71</small>k</span>\u20b3",
             "price": "0<small class=\"text-muted\">.037300</small>\u20b3<br /><small class=\"text-primary\">$0.015899</small>",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"3,219.00\">3.<small class=\"text-muted\">22</small>k</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"17,627.00\">17.<small class=\"text-muted\">63</small>k</span>",
@@ -274,8 +274,8 @@
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"200,000,000.00\">200.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"43,740,000.00\">43.<small class=\"text-muted\">74</small>M</span>\u20b3",
             "1_day_change": "<span class=\"text-success\">1.06%</span>",
-            "3_day_change": "<span class=\"text-success\">0.51%</span>",
-            "7_day_change": "<span class=\"text-success\">1.34%</span>"
+            "3_day_change": "<span class=\"text-success\">0.74%</span>",
+            "7_day_change": "<span class=\"text-success\">1.2%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/0/4/c/7/7/asset14yqf3pclzx88jjahydyfad8pxw5xhuca6j7k2p.png\"> <a class=\"d-none d-md-inline\" href=\"https://dripdropz.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"DripDropz Token, Policy: af2e27f580f7f08e93190a81f72462f153026d06450924726645891b, Quantity: 45.00B, Mints: 5\" href=\"/asset/asset14yqf3pclzx88jjahydyfad8pxw5xhuca6j7k2p\">[DRIP] <span class=\"d-none d-md-inline\">DRIP</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset14yqf3pclzx88jjahydyfad8pxw5xhuca6j7k2p\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset14yqf3pclzx88jjahydyfad8pxw5xhuca6j7k2p\"></i> asset14yqf...j7k2p</div>",
@@ -291,15 +291,15 @@
         },
         {
             "name": "<div class=\"text-nowrap\"><a class=\"d-none d-md-inline\" href=\"https://projectnewm.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"NEWM Token, Policy: 682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f63, Quantity: 9.74B, Mints: 2\" href=\"/asset/asset105nh988tzzzk3duk6relug69td98ja3nl3uv2c\">[NEWM] <span class=\"d-none d-md-inline\">NEWM</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset105nh988tzzzk3duk6relug69td98ja3nl3uv2c\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset105nh988tzzzk3duk6relug69td98ja3nl3uv2c\"></i> asset105nh...3uv2c</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"3,573.00\">3.<small class=\"text-muted\">57</small>k</span>\u20b3",
-            "price": "0<small class=\"text-muted\">.010600</small>\u20b3<br /><small class=\"text-primary\">$0.004518</small>",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"3,673.00\">3.<small class=\"text-muted\">67</small>k</span>\u20b3",
+            "price": "0<small class=\"text-muted\">.010800</small>\u20b3<br /><small class=\"text-primary\">$0.004603</small>",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"7,623.00\">7.<small class=\"text-muted\">62</small>k</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"19,250.00\">19.<small class=\"text-muted\">25</small>k</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"9,735,033,900.00\">9.<small class=\"text-muted\">74</small>B</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"103,191,359.34\">103.<small class=\"text-muted\">19</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-success\">1.92%</span>",
-            "3_day_change": "<span class=\"text-danger\">-1.85%</span>",
-            "7_day_change": "<span class=\"text-danger\">-4.5%</span>"
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"105,138,366.12\">105.<small class=\"text-muted\">14</small>M</span>\u20b3",
+            "1_day_change": "<span class=\"text-success\">3.85%</span>",
+            "3_day_change": "-",
+            "7_day_change": "<span class=\"text-danger\">-2.7%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/d/c/5/0/7/asset1jhsvtq7uaz0npx5vryc5um3r34tmz576qe3kkj.png\"> <a class=\"d-none d-md-inline\" href=\"https://yummi-universe.gitbook.io/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The Official Yummi Universe Coin, Policy: 078eafce5cd7edafdf63900edef2c1ea759e77f30ca81d6bbdeec924, Quantity: 451.68M, Mints: 9654\" href=\"/asset/asset1jhsvtq7uaz0npx5vryc5um3r34tmz576qe3kkj\">[YUMMI] <span class=\"d-none d-md-inline\">YUMMI</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1jhsvtq7uaz0npx5vryc5um3r34tmz576qe3kkj\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1jhsvtq7uaz0npx5vryc5um3r34tmz576qe3kkj\"></i> asset1jhsv...e3kkj</div>",
@@ -310,8 +310,20 @@
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"451,683,875.00\">451.<small class=\"text-muted\">68</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"1,094,372.98\">1.<small class=\"text-muted\">09</small>M</span>\u20b3",
             "1_day_change": "<span class=\"text-danger\">-1.1%</span>",
-            "3_day_change": "<span class=\"text-danger\">-8.08%</span>",
+            "3_day_change": "<span class=\"text-danger\">-8.01%</span>",
             "7_day_change": "<span class=\"text-danger\">-19.27%</span>"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/a/e/b/7/0/asset1apkt3y69wjyctm94x0eglhx34r9kenx5lg8e06.png\"> <a class=\"d-none d-md-inline\" href=\"https://pavia.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"A currency for the Metaverse., Policy: 884892bcdc360bcef87d6b3f806e7f9cd5ac30d999d49970e7a903ae, Quantity: 2.00B, Mints: 1\" href=\"/asset/asset1apkt3y69wjyctm94x0eglhx34r9kenx5lg8e06\">[PAVIA] <span class=\"d-none d-md-inline\">PAVIA Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1apkt3y69wjyctm94x0eglhx34r9kenx5lg8e06\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1apkt3y69wjyctm94x0eglhx34r9kenx5lg8e06\"></i> asset1apkt...g8e06</div>",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"2,268.00\">2.<small class=\"text-muted\">27</small>k</span>\u20b3",
+            "price": "0<small class=\"text-muted\">.037017</small>\u20b3<br /><small class=\"text-primary\">$0.015778</small>",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"1,496.00\">1.<small class=\"text-muted\">50</small>k</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"15,389.00\">15.<small class=\"text-muted\">39</small>k</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"2,000,000,000.00\">2.<small class=\"text-muted\">00</small>B</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"74,033,619.80\">74.<small class=\"text-muted\">03</small>M</span>\u20b3",
+            "1_day_change": "<span class=\"text-success\">0.22%</span>",
+            "3_day_change": "<span class=\"text-success\">2.06%</span>",
+            "7_day_change": "<span class=\"text-success\">4.29%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/d/0/4/6/0/asset1zumrxdwdtrph9ujx7veuv2wnw6h46e3dkh2l4p.png\">  <a data-bs-toggle=\"tooltip\" title=\"Wrapped Bitcoin bridged through Nomad., Policy: 84c920ee2b81a5cc5fca698a0b18093cc5d033e362e187acb83c577f, Quantity: 922.34M, Mints: 1\" href=\"/asset/asset1zumrxdwdtrph9ujx7veuv2wnw6h46e3dkh2l4p\">[madWBTC] <span class=\"d-none d-md-inline\">WBTC (Nomad)</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1zumrxdwdtrph9ujx7veuv2wnw6h46e3dkh2l4p\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1zumrxdwdtrph9ujx7veuv2wnw6h46e3dkh2l4p\"></i> asset1zumr...h2l4p</div>",
@@ -321,21 +333,9 @@
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"83.00\">83</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"922,337,203.69\">922.<small class=\"text-muted\">34</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"7,383,309,315,502.25\">7.<small class=\"text-muted\">38</small>T</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-2.8%</span>",
-            "3_day_change": "<span class=\"text-danger\">-2.8%</span>",
-            "7_day_change": "<span class=\"text-danger\">-1.39%</span>"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/a/e/b/7/0/asset1apkt3y69wjyctm94x0eglhx34r9kenx5lg8e06.png\"> <a class=\"d-none d-md-inline\" href=\"https://pavia.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"A currency for the Metaverse., Policy: 884892bcdc360bcef87d6b3f806e7f9cd5ac30d999d49970e7a903ae, Quantity: 2.00B, Mints: 1\" href=\"/asset/asset1apkt3y69wjyctm94x0eglhx34r9kenx5lg8e06\">[PAVIA] <span class=\"d-none d-md-inline\">PAVIA Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1apkt3y69wjyctm94x0eglhx34r9kenx5lg8e06\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1apkt3y69wjyctm94x0eglhx34r9kenx5lg8e06\"></i> asset1apkt...g8e06</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"2,048.00\">2.<small class=\"text-muted\">05</small>k</span>\u20b3",
-            "price": "0<small class=\"text-muted\">.037017</small>\u20b3<br /><small class=\"text-primary\">$0.015778</small>",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"1,496.00\">1.<small class=\"text-muted\">50</small>k</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"15,389.00\">15.<small class=\"text-muted\">39</small>k</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"2,000,000,000.00\">2.<small class=\"text-muted\">00</small>B</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"74,033,619.80\">74.<small class=\"text-muted\">03</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-success\">0.26%</span>",
-            "3_day_change": "<span class=\"text-success\">2.18%</span>",
-            "7_day_change": "<span class=\"text-success\">4.35%</span>"
+            "1_day_change": "<span class=\"text-danger\">-1.89%</span>",
+            "3_day_change": "<span class=\"text-danger\">-1.89%</span>",
+            "7_day_change": "<span class=\"text-danger\">-1.5%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/a/2/e/9/1/asset155nxgqj5acff7fdhc8ranfwyl7nq4ljrks7l6w.png\"> <a class=\"d-none d-md-inline\" href=\"https://strippercoin.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"StripperCoin where in a pandemic-ridden world, strippers can still safely, and non-degradingly receive funds from a client., Policy: 6954264b15bc92d6d592febeac84f14645e1ed46ca5ebb9acdb5c15f, Quantity: 69.00M, Mints: 3\" href=\"/asset/asset155nxgqj5acff7fdhc8ranfwyl7nq4ljrks7l6w\">[STRIP] <span class=\"d-none d-md-inline\">StripperCoin</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset155nxgqj5acff7fdhc8ranfwyl7nq4ljrks7l6w\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset155nxgqj5acff7fdhc8ranfwyl7nq4ljrks7l6w\"></i> asset155nx...s7l6w</div>",
@@ -347,7 +347,7 @@
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"2,461,402.50\">2.<small class=\"text-muted\">46</small>M</span>\u20b3",
             "1_day_change": "<span class=\"text-warning\">-0.05%</span>",
             "3_day_change": "<span class=\"text-success\">8.3%</span>",
-            "7_day_change": "<span class=\"text-success\">14.26%</span>"
+            "7_day_change": "<span class=\"text-success\">14.2%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/f/d/b/c/1/asset1wvu3lvkalmd7um0gvmjtwmtqlpfxydt430nfhw.png\"> <a class=\"d-none d-md-inline\" href=\"https://do.exchange?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"AMM-based decentralized exchange for assets that are native to the Cardano Blockchain., Policy: dca54ecf37b0e3af2fdfd336e1d21fadcc45b3261b0f73a095631dfe, Quantity: 140.00M, Mints: 1\" href=\"/asset/asset1wvu3lvkalmd7um0gvmjtwmtqlpfxydt430nfhw\">[DOEX] <span class=\"d-none d-md-inline\">DOEX</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1wvu3lvkalmd7um0gvmjtwmtqlpfxydt430nfhw\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1wvu3lvkalmd7um0gvmjtwmtqlpfxydt430nfhw\"></i> asset1wvu3...0nfhw</div>",
@@ -386,18 +386,6 @@
             "7_day_change": "<span class=\"text-danger\">-11.69%</span>"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/2/7/6/8/9/asset1k3zkpw8lk6009qr5zshxeuewe0n0c9we6gg9ed.png\"> <a class=\"d-none d-md-inline\" href=\"https://dex.adax.pro?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"State of the Art Decentralized Exchange Protocol Token., Policy: 0c78f619e54a5d00e143f66181a2c500d0c394b38a10e86cd1a23c5f, Quantity: 100.00M, Mints: 1\" href=\"/asset/asset1k3zkpw8lk6009qr5zshxeuewe0n0c9we6gg9ed\">[ADAX] <span class=\"d-none d-md-inline\">ADAX</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1k3zkpw8lk6009qr5zshxeuewe0n0c9we6gg9ed\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1k3zkpw8lk6009qr5zshxeuewe0n0c9we6gg9ed\"></i> asset1k3zk...gg9ed</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"633.00\">633</span>\u20b3",
-            "price": "0<small class=\"text-muted\">.097223</small>\u20b3<br /><small class=\"text-primary\">$0.041441</small>",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"525.00\">525</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"8,085.00\">8.<small class=\"text-muted\">09</small>k</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"100,000,000.00\">100.<small class=\"text-muted\">00</small>M</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"9,722,338.88\">9.<small class=\"text-muted\">72</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-success\">1.31%</span>",
-            "3_day_change": "<span class=\"text-success\">1.15%</span>",
-            "7_day_change": "<span class=\"text-success\">2.43%</span>"
-        },
-        {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/d/a/6/7/a/asset1kc38464r98ftdaqfxnkr8vul229vcgj3wds00v.png\"> <a class=\"d-none d-md-inline\" href=\"https://whitepaper.cardanolands.com/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Hexonium - in-game currency of Cardano Lands Univers, Policy: 27eee19588c997ca54d3137f64afe55a18dfcf9062fa83a724bf2357, Quantity: 3.51M, Mints: 1665\" href=\"/asset/asset1kc38464r98ftdaqfxnkr8vul229vcgj3wds00v\">[HEXO] <span class=\"d-none d-md-inline\">HEXONIUM</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1kc38464r98ftdaqfxnkr8vul229vcgj3wds00v\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1kc38464r98ftdaqfxnkr8vul229vcgj3wds00v\"></i> asset1kc38...ds00v</div>",
             "volume": "<span data-bs-toggle=\"tooltip\" title=\"605.00\">605</span>\u20b3",
             "price": "0<small class=\"text-muted\">.007456</small>\u20b3<br /><small class=\"text-primary\">$0.003178</small>",
@@ -430,7 +418,7 @@
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"21,000,000.00\">21.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"1,902,600.00\">1.<small class=\"text-muted\">90</small>M</span>\u20b3",
             "1_day_change": "<span class=\"text-danger\">-4.53%</span>",
-            "3_day_change": "<span class=\"text-danger\">-7.93%</span>",
+            "3_day_change": "<span class=\"text-danger\">-7.74%</span>",
             "7_day_change": "<span class=\"text-danger\">-17.41%</span>"
         },
         {
@@ -442,7 +430,7 @@
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"500,000,000.00\">500.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"128,509.75\">128.<small class=\"text-muted\">51</small>k</span>\u20b3",
             "1_day_change": "<span class=\"text-success\">3.61%</span>",
-            "3_day_change": "<span class=\"text-success\">27.87%</span>",
+            "3_day_change": "<span class=\"text-success\">27.65%</span>",
             "7_day_change": "<span class=\"text-success\">43.74%</span>"
         },
         {
@@ -530,6 +518,18 @@
             "7_day_change": "<span class=\"text-danger\">-8.72%</span>"
         },
         {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/2/7/6/8/9/asset1k3zkpw8lk6009qr5zshxeuewe0n0c9we6gg9ed.png\"> <a class=\"d-none d-md-inline\" href=\"https://dex.adax.pro?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"State of the Art Decentralized Exchange Protocol Token., Policy: 0c78f619e54a5d00e143f66181a2c500d0c394b38a10e86cd1a23c5f, Quantity: 100.00M, Mints: 1\" href=\"/asset/asset1k3zkpw8lk6009qr5zshxeuewe0n0c9we6gg9ed\">[ADAX] <span class=\"d-none d-md-inline\">ADAX</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1k3zkpw8lk6009qr5zshxeuewe0n0c9we6gg9ed\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1k3zkpw8lk6009qr5zshxeuewe0n0c9we6gg9ed\"></i> asset1k3zk...gg9ed</div>",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"365.00\">365</span>\u20b3",
+            "price": "0<small class=\"text-muted\">.097223</small>\u20b3<br /><small class=\"text-primary\">$0.041441</small>",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"525.00\">525</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"8,085.00\">8.<small class=\"text-muted\">09</small>k</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"100,000,000.00\">100.<small class=\"text-muted\">00</small>M</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"9,722,338.88\">9.<small class=\"text-muted\">72</small>M</span>\u20b3",
+            "1_day_change": "<span class=\"text-success\">1.01%</span>",
+            "3_day_change": "<span class=\"text-success\">1.15%</span>",
+            "7_day_change": "<span class=\"text-success\">2.43%</span>"
+        },
+        {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/a/7/0/2/3/asset17q7r59zlc3dgw0venc80pdv566q6yguw03f0d9.png\"> <a class=\"d-none d-md-inline\" href=\"https://hosky.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The PREMIERE low-quality s**t coin doggo meme token, exclusively on the Cardano Ecosystem. We are THE s**t, we are NOT s**t., Policy: a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235, Quantity: 1,000.00T, Mints: 6\" href=\"/asset/asset17q7r59zlc3dgw0venc80pdv566q6yguw03f0d9\">[HOSKY] <span class=\"d-none d-md-inline\">HOSKY Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset17q7r59zlc3dgw0venc80pdv566q6yguw03f0d9\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset17q7r59zlc3dgw0venc80pdv566q6yguw03f0d9\"></i> asset17q7r...3f0d9</div>",
             "volume": "<span data-bs-toggle=\"tooltip\" title=\"364.00\">364</span>\u20b3",
             "price": "<small class=\"small text-muted\">0.0273 love</small><br /><small class=\"text-primary\"><small class=\"small text-muted\">0.011636470198217 love</small></small>",
@@ -551,7 +551,7 @@
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"317,070,000.00\">317.<small class=\"text-muted\">07</small>M</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "<span class=\"text-success\">1.69%</span>",
-            "7_day_change": "<span class=\"text-success\">1%</span>"
+            "7_day_change": "<span class=\"text-success\">1.03%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/e/7/d/3/7/asset1nylmp38l5uq2szj6kguellahjvpsj6a7uhwxzs.png\"> <a class=\"d-none d-md-inline\" href=\"https://QuantumAI.Computer?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Quantum AI Computing, Policy: 354a6c0acd846b195768ead31c92693ad26d82ba013e7df5d9777081, Quantity: 1.00B, Mints: 1\" href=\"/asset/asset1nylmp38l5uq2szj6kguellahjvpsj6a7uhwxzs\">[QAI] <span class=\"d-none d-md-inline\">QuantumAI</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1nylmp38l5uq2szj6kguellahjvpsj6a7uhwxzs\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1nylmp38l5uq2szj6kguellahjvpsj6a7uhwxzs\"></i> asset1nylm...hwxzs</div>",
@@ -578,18 +578,6 @@
             "7_day_change": "<span class=\"text-success\">27.44%</span>"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/9/6/4/1/b/asset1yrhde3lpsl26vrmtx4tjgwmpl2jwxcv35uja3l.png\">  <a data-bs-toggle=\"tooltip\" title=\"The utility token powering the Cardano Crocs Club ecosystem., Policy: a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b939, Quantity: 1.67B, Mints: 4\" href=\"/asset/asset1yrhde3lpsl26vrmtx4tjgwmpl2jwxcv35uja3l\">[C4] <span class=\"d-none d-md-inline\">Cardano Crocs Club Coin</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1yrhde3lpsl26vrmtx4tjgwmpl2jwxcv35uja3l\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1yrhde3lpsl26vrmtx4tjgwmpl2jwxcv35uja3l\"></i> asset1yrhd...uja3l</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"290.00\">290</span>\u20b3",
-            "price": "0<small class=\"text-muted\">.001233</small>\u20b3<br /><small class=\"text-primary\">$0.000526</small>",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"260.00\">260</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"787.00\">787</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,669,428,532.00\">1.<small class=\"text-muted\">67</small>B</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"2,058,256.97\">2.<small class=\"text-muted\">06</small>M</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-3.83%</span>",
-            "3_day_change": "<span class=\"text-danger\">-12.82%</span>",
-            "7_day_change": "<span class=\"text-success\">4.5%</span>"
-        },
-        {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/4/7/d/6/2/asset1wnxwy544zu8fgyed5vkp2sf3t4t9aptfkc2z5x.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.anetabtc.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"AnetaBTC is a fully on-chain, decentralized protocol that allows Bitcoin to be directly wrapped on the Ergo and Cardano blockchains. This token serves as a Cardano governance token for anetaBTC., Policy: b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a, Quantity: 1.00B, Mints: 1\" href=\"/asset/asset1wnxwy544zu8fgyed5vkp2sf3t4t9aptfkc2z5x\">[cNETA] <span class=\"d-none d-md-inline\">anetaBTC</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1wnxwy544zu8fgyed5vkp2sf3t4t9aptfkc2z5x\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1wnxwy544zu8fgyed5vkp2sf3t4t9aptfkc2z5x\"></i> asset1wnxw...c2z5x</div>",
             "volume": "<span data-bs-toggle=\"tooltip\" title=\"280.00\">280</span>\u20b3",
             "price": "0<small class=\"text-muted\">.014139</small>\u20b3<br /><small class=\"text-primary\">$0.006027</small>",
@@ -599,7 +587,7 @@
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"14,139,402.30\">14.<small class=\"text-muted\">14</small>M</span>\u20b3",
             "1_day_change": "<span class=\"text-danger\">-0.31%</span>",
             "3_day_change": "<span class=\"text-success\">0.12%</span>",
-            "7_day_change": "<span class=\"text-danger\">-3.82%</span>"
+            "7_day_change": "<span class=\"text-danger\">-3.88%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/a/8/9/3/a/asset1pcc50n3yk8vurfj2n3tcgxc9ayrzvhz6xnu6zk.png\"> <a class=\"d-none d-md-inline\" href=\"https://squidpool.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Squid Pool token, Policy: 815f432f5d9b36e77989d0fea374292e9c8330c5146ca8500632b3cf, Quantity: 10.00B, Mints: 1\" href=\"/asset/asset1pcc50n3yk8vurfj2n3tcgxc9ayrzvhz6xnu6zk\">[SQUID] <span class=\"d-none d-md-inline\">Squid</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1pcc50n3yk8vurfj2n3tcgxc9ayrzvhz6xnu6zk\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1pcc50n3yk8vurfj2n3tcgxc9ayrzvhz6xnu6zk\"></i> asset1pcc5...nu6zk</div>",
@@ -719,7 +707,7 @@
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"358,511.60\">358.<small class=\"text-muted\">51</small>k</span>\u20b3",
             "1_day_change": "<span class=\"text-danger\">-2.28%</span>",
             "3_day_change": "<span class=\"text-danger\">-3.75%</span>",
-            "7_day_change": "<span class=\"text-danger\">-3.26%</span>"
+            "7_day_change": "<span class=\"text-danger\">-3.2%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/7/0/d/d/c/asset1x0pvt9xv7q47kr294z3vcljy4q23derxxstfqr.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.cardabbean.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"PINACOLADA is the official crypto currency of the Cardabbean Islands Metaverse., Policy: 0c442180dd6163682d8e03b271caefb4944a24412bdd07adafb04ccb, Quantity: 1.00T, Mints: 1\" href=\"/asset/asset1x0pvt9xv7q47kr294z3vcljy4q23derxxstfqr\">[Pina] <span class=\"d-none d-md-inline\">PinacolADA</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1x0pvt9xv7q47kr294z3vcljy4q23derxxstfqr\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1x0pvt9xv7q47kr294z3vcljy4q23derxxstfqr\"></i> asset1x0pv...stfqr</div>",
@@ -734,16 +722,16 @@
             "7_day_change": "<span class=\"text-danger\">-13.2%</span>"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/f/6/8/4/a/asset1xxjhsvy7zy3nng5h8cqnxmy483pcjzflktavm4.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.degencryptoclub.com/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The official DEGEN token by Degen Crypto Club, Policy: db9b6cb5a306b64a43ac2363b1cfad626dfc2d94f9c885889a521300, Quantity: 15.00M, Mints: 1\" href=\"/asset/asset1xxjhsvy7zy3nng5h8cqnxmy483pcjzflktavm4\">[DEGEN] <span class=\"d-none d-md-inline\">DEGEN</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1xxjhsvy7zy3nng5h8cqnxmy483pcjzflktavm4\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1xxjhsvy7zy3nng5h8cqnxmy483pcjzflktavm4\"></i> asset1xxjh...tavm4</div>",
-            "volume": "<span data-bs-toggle=\"tooltip\" title=\"132.00\">132</span>\u20b3",
-            "price": "0<small class=\"text-muted\">.002900</small>\u20b3<br /><small class=\"text-primary\">$0.001236</small>",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"338.00\">338</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"2,201.00\">2.<small class=\"text-muted\">20</small>k</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"15,000,000.00\">15.<small class=\"text-muted\">00</small>M</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"43,500.00\">43.<small class=\"text-muted\">50</small>k</span>\u20b3",
-            "1_day_change": "<span class=\"text-danger\">-9.37%</span>",
-            "3_day_change": "<span class=\"text-danger\">-9.37%</span>",
-            "7_day_change": "<span class=\"text-danger\">-9.37%</span>"
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/9/6/4/1/b/asset1yrhde3lpsl26vrmtx4tjgwmpl2jwxcv35uja3l.png\">  <a data-bs-toggle=\"tooltip\" title=\"The utility token powering the Cardano Crocs Club ecosystem., Policy: a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b939, Quantity: 1.67B, Mints: 4\" href=\"/asset/asset1yrhde3lpsl26vrmtx4tjgwmpl2jwxcv35uja3l\">[C4] <span class=\"d-none d-md-inline\">Cardano Crocs Club Coin</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1yrhde3lpsl26vrmtx4tjgwmpl2jwxcv35uja3l\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1yrhde3lpsl26vrmtx4tjgwmpl2jwxcv35uja3l\"></i> asset1yrhd...uja3l</div>",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"160.00\">160</span>\u20b3",
+            "price": "0<small class=\"text-muted\">.001233</small>\u20b3<br /><small class=\"text-primary\">$0.000526</small>",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"260.00\">260</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"787.00\">787</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,669,428,532.00\">1.<small class=\"text-muted\">67</small>B</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"2,058,256.97\">2.<small class=\"text-muted\">06</small>M</span>\u20b3",
+            "1_day_change": "<span class=\"text-danger\">-3.08%</span>",
+            "3_day_change": "<span class=\"text-danger\">-14.3%</span>",
+            "7_day_change": "<span class=\"text-success\">4.17%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/4/9/b/4/0/asset1w8x72w0lq92662er86zhlcvgsg2g7hlzkf0979.png\"> <a class=\"d-none d-md-inline\" href=\"https://howijd.network?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Howijd.Network Utility Token, Policy: a8102151506a8a81dc1763ee05cdd01d787f50dfeb6f843071e1c6a0, Quantity: 45.00B, Mints: 3\" href=\"/asset/asset1w8x72w0lq92662er86zhlcvgsg2g7hlzkf0979\">[HOWI] <span class=\"d-none d-md-inline\">HOWI</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1w8x72w0lq92662er86zhlcvgsg2g7hlzkf0979\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1w8x72w0lq92662er86zhlcvgsg2g7hlzkf0979\"></i> asset1w8x7...f0979</div>",
@@ -756,6 +744,18 @@
             "1_day_change": "<span class=\"text-danger\">-25%</span>",
             "3_day_change": "<span class=\"text-danger\">-25%</span>",
             "7_day_change": "<span class=\"text-danger\">-25%</span>"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/f/6/8/4/a/asset1xxjhsvy7zy3nng5h8cqnxmy483pcjzflktavm4.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.degencryptoclub.com/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The official DEGEN token by Degen Crypto Club, Policy: db9b6cb5a306b64a43ac2363b1cfad626dfc2d94f9c885889a521300, Quantity: 15.00M, Mints: 1\" href=\"/asset/asset1xxjhsvy7zy3nng5h8cqnxmy483pcjzflktavm4\">[DEGEN] <span class=\"d-none d-md-inline\">DEGEN</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1xxjhsvy7zy3nng5h8cqnxmy483pcjzflktavm4\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1xxjhsvy7zy3nng5h8cqnxmy483pcjzflktavm4\"></i> asset1xxjh...tavm4</div>",
+            "volume": "<span data-bs-toggle=\"tooltip\" title=\"132.00\">132</span>\u20b3",
+            "price": "0<small class=\"text-muted\">.002900</small>\u20b3<br /><small class=\"text-primary\">$0.001236</small>",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"338.00\">338</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"2,201.00\">2.<small class=\"text-muted\">20</small>k</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"15,000,000.00\">15.<small class=\"text-muted\">00</small>M</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"43,500.00\">43.<small class=\"text-muted\">50</small>k</span>\u20b3",
+            "1_day_change": "<span class=\"text-danger\">-9.37%</span>",
+            "3_day_change": "<span class=\"text-danger\">-9.37%</span>",
+            "7_day_change": "<span class=\"text-danger\">-9.37%</span>"
         },
         {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/6/b/f/a/8/asset1pmmzqf2akudknt05ealtvcvsy7n6wnc9dd03mf.png\"> <a class=\"d-none d-md-inline\" href=\"https://spacecoins.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"the OG Cardano community token - whatever you do, your did it!, Policy: d894897411707efa755a76deb66d26dfd50593f2e70863e1661e98a0, Quantity: 106.63M, Mints: 6320\" href=\"/asset/asset1pmmzqf2akudknt05ealtvcvsy7n6wnc9dd03mf\">[SPACE] <span class=\"d-none d-md-inline\">spacecoins</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1pmmzqf2akudknt05ealtvcvsy7n6wnc9dd03mf\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1pmmzqf2akudknt05ealtvcvsy7n6wnc9dd03mf\"></i> asset1pmmz...d03mf</div>",
@@ -794,42 +794,6 @@
             "7_day_change": "<span class=\"text-success\">20%</span>"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/f/1/0/f/d/asset1klefxla6wpfx4a924hctj7s6yc9ypy26n0lzxv.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.abstractpotato.com/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"First minable native token on Cardano.\nMine STRCH, to get tokens and support Starch Pool.\nCreated by: @abstractpotato, Policy: 3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b39, Quantity: 43.00T, Mints: 1\" href=\"/asset/asset1klefxla6wpfx4a924hctj7s6yc9ypy26n0lzxv\">[STRCH] <span class=\"d-none d-md-inline\">Starch Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1klefxla6wpfx4a924hctj7s6yc9ypy26n0lzxv\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1klefxla6wpfx4a924hctj7s6yc9ypy26n0lzxv\"></i> asset1klef...0lzxv</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"20.00\">20</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"55.00\">55</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"43,000,000,000,000.00\">43.<small class=\"text-muted\">00</small>T</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/3/0/0/7/f/asset17x5upu49m9pdd4pznglk9us0z0svazlzc7lykg.png\">  <a data-bs-toggle=\"tooltip\" title=\"community token, Policy: c3a45606603c891cedb336c5da2331f90a4112b41adbf2d4f7c41d06, Quantity: 21.00M, Mints: 1\" href=\"/asset/asset17x5upu49m9pdd4pznglk9us0z0svazlzc7lykg\">[birds] <span class=\"d-none d-md-inline\">cardano birds</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset17x5upu49m9pdd4pznglk9us0z0svazlzc7lykg\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset17x5upu49m9pdd4pznglk9us0z0svazlzc7lykg\"></i> asset17x5u...7lykg</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"21,000,000.00\">21.<small class=\"text-muted\">00</small>M</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/7/0/2/b/b/asset15y7d82xxhma04jra4jfqlt09tgzkv6g65xnflm.png\"> <a class=\"d-none d-md-inline\" href=\"https://namiitoken.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"A Token dedicated To ending hunger through blockchain technology., Policy: 31d77ea6aed35aff35af568f680e327bfe428e45cdf229d77c3a5920, Quantity: 200.00B, Mints: 1\" href=\"/asset/asset15y7d82xxhma04jra4jfqlt09tgzkv6g65xnflm\">[NTKN] <span class=\"d-none d-md-inline\">Namii Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset15y7d82xxhma04jra4jfqlt09tgzkv6g65xnflm\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset15y7d82xxhma04jra4jfqlt09tgzkv6g65xnflm\"></i> asset15y7d...xnflm</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"200,000,000,000.00\">200.<small class=\"text-muted\">00</small>B</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
             "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/e/b/9/8/1/asset1rqm40arh980fn6jjnq666efd47gl0j6hse4p9u.png\">  <a data-bs-toggle=\"tooltip\" title=\"Wrapped Ether bridged through Nomad., Policy: 318847394ec6842e1069f93c4b3641418a128ab57a97fcca520c7ff2, Quantity: 922.34M, Mints: 1\" href=\"/asset/asset1rqm40arh980fn6jjnq666efd47gl0j6hse4p9u\">[madWETH] <span class=\"d-none d-md-inline\">WETH (Nomad)</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1rqm40arh980fn6jjnq666efd47gl0j6hse4p9u\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1rqm40arh980fn6jjnq666efd47gl0j6hse4p9u\"></i> asset1rqm4...e4p9u</div>",
             "volume": "-",
             "price": "-",
@@ -842,55 +806,19 @@
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/c/2/d/a/3/asset1yg7j5fx3a0qp3l6sy4z7d5feackhfhgnqhft2n.png\"> <a class=\"d-none d-md-inline\" href=\"https://blocknotes.ne0.xyz?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Cardano Blockchain Cash, Policy: d4d256db551bd4555625d1753c2a2503962e634de61cc8d2617e30d8, Quantity: 10.00k, Mints: 1\" href=\"/asset/asset1yg7j5fx3a0qp3l6sy4z7d5feackhfhgnqhft2n\">[B10] <span class=\"d-none d-md-inline\">10BLOCKNOTE</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1yg7j5fx3a0qp3l6sy4z7d5feackhfhgnqhft2n\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1yg7j5fx3a0qp3l6sy4z7d5feackhfhgnqhft2n\"></i> asset1yg7j...hft2n</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/5/0/f/c/5/asset10rvvj4nxaqxlwfngpg7x3aqlycznyhgn5adk3j.png\"> <a class=\"d-none d-md-inline\" href=\"https://fire-pool.com/the-murph-token?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"A currency for the FIRE project, Policy: 90dcf637d6c683aa82a27177cda8dc4856cde44e678f5700ac845534, Quantity: 20.00k, Mints: 1\" href=\"/asset/asset10rvvj4nxaqxlwfngpg7x3aqlycznyhgn5adk3j\">[MURPH] <span class=\"d-none d-md-inline\">The Murph Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset10rvvj4nxaqxlwfngpg7x3aqlycznyhgn5adk3j\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset10rvvj4nxaqxlwfngpg7x3aqlycznyhgn5adk3j\"></i> asset10rvv...adk3j</div>",
             "volume": "-",
             "price": "-",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"10,000.00\">10.<small class=\"text-muted\">00</small>k</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"20,000.00\">20.<small class=\"text-muted\">00</small>k</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/7/f/d/4/a/asset1f4f5rlpukzqqxr5kp8t0wvumpv8lwzy5vd825u.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.TheDigitalGoldToken.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Digital Gold is the new and improved replacement for Bitcoin on the Cardano Blockchain. This native token fixes and improves all of Bitcoins shortcomings. Digital Gold is environmentally friendly due to Cardano\u2019s proof of stake protocol. Transactions are fast and affordable because of Cardano&#039;s speed. Digital Gold has the ability to utilize different utilities because of Cardano&#039;s smart contract capabilities. Only 21M tokens will ever be minted with 11M being offered initially. , Policy: 16fdd33c86af604e837ae57d79d5f0f1156406086db5f16afb3fcf51, Quantity: 21.00M, Mints: 1\" href=\"/asset/asset1f4f5rlpukzqqxr5kp8t0wvumpv8lwzy5vd825u\">[DGOLD] <span class=\"d-none d-md-inline\">Digital Gold Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1f4f5rlpukzqqxr5kp8t0wvumpv8lwzy5vd825u\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1f4f5rlpukzqqxr5kp8t0wvumpv8lwzy5vd825u\"></i> asset1f4f5...d825u</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"24.00\">24</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"303.00\">303</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"21,000,000.00\">21.<small class=\"text-muted\">00</small>M</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/6/8/1/0/6/asset1gnj54ws8qshehduqhh7cr2klnqtlpya39ll0yc.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.rackmob.com/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Metaverse Blockchain Cryptocurrency., Policy: d08f87d253349ef8d7b61e4cd03504bea1bf9dad92d6d119302b73f7, Quantity: 17.00B, Mints: 1\" href=\"/asset/asset1gnj54ws8qshehduqhh7cr2klnqtlpya39ll0yc\">[MOB] <span class=\"d-none d-md-inline\">Rackmob</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1gnj54ws8qshehduqhh7cr2klnqtlpya39ll0yc\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1gnj54ws8qshehduqhh7cr2klnqtlpya39ll0yc\"></i> asset1gnj5...ll0yc</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"17,000,000,000.00\">17.<small class=\"text-muted\">00</small>B</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/d/e/0/1/0/asset1shd67als3v5aeuz8eknpvfyzxtaz3p6dku42ku.png\"> <a class=\"d-none d-md-inline\" href=\"https://nothingbeats.crypto?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Cardano Rules Everything Around Me, Policy: 3d17c4cdf19e5c050d2540a7ed562e8ad1ba8c6c1cd03484ad4ae304, Quantity: 100.00M, Mints: 1\" href=\"/asset/asset1shd67als3v5aeuz8eknpvfyzxtaz3p6dku42ku\">[CREAM] <span class=\"d-none d-md-inline\">CREAM</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1shd67als3v5aeuz8eknpvfyzxtaz3p6dku42ku\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1shd67als3v5aeuz8eknpvfyzxtaz3p6dku42ku\"></i> asset1shd6...u42ku</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"100,000,000.00\">100.<small class=\"text-muted\">00</small>M</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/9/7/4/8/4/asset1vvchwts7kss3a86wz63l4yv403cszmkzvpt43f.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.nolliesoft.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"A coin for your instincts., Policy: abdaf627f607e9ef12e6d4c9ba5f30fe3802a47275e502c63f2f41fd, Quantity: 1.00B, Mints: 1\" href=\"/asset/asset1vvchwts7kss3a86wz63l4yv403cszmkzvpt43f\">[BITCH] <span class=\"d-none d-md-inline\">BITCHCOIN</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1vvchwts7kss3a86wz63l4yv403cszmkzvpt43f\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1vvchwts7kss3a86wz63l4yv403cszmkzvpt43f\"></i> asset1vvch...pt43f</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/7/2/4/5/9/asset1hjuu90h923ly2lcpez7muj03cdjjlgyrvuxgye.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.iada.tech?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"iADA token, Policy: 7d0ad1c63fba04797b34a99fdaf4cd2a5cd302af8902406c543a20e1, Quantity: 1.00B, Mints: 1\" href=\"/asset/asset1hjuu90h923ly2lcpez7muj03cdjjlgyrvuxgye\">[iADA] <span class=\"d-none d-md-inline\">iADA</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1hjuu90h923ly2lcpez7muj03cdjjlgyrvuxgye\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1hjuu90h923ly2lcpez7muj03cdjjlgyrvuxgye\"></i> asset1hjuu...uxgye</div>",
             "volume": "-",
             "price": "-",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
@@ -902,31 +830,43 @@
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/0/d/8/e/e/asset1pt3mfphgttc4pdrcrgf3w8e8j99nedsm34k85p.png\"> <a class=\"d-none d-md-inline\" href=\"https://fungibletoken.stakepool.cc?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"https://dripdropz.io/explore-projects/TOKEN, Policy: 0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401, Quantity: 45.00B, Mints: 1\" href=\"/asset/asset1pt3mfphgttc4pdrcrgf3w8e8j99nedsm34k85p\">[TOKEN] <span class=\"d-none d-md-inline\">TOKEN</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1pt3mfphgttc4pdrcrgf3w8e8j99nedsm34k85p\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1pt3mfphgttc4pdrcrgf3w8e8j99nedsm34k85p\"></i> asset1pt3m...4k85p</div>",
+            "name": "<div class=\"text-nowrap\"> <a data-bs-toggle=\"tooltip\" title=\"Token for 8-bit coders, 256 exists of this token, Policy: b225396482c83ecaf89cd7cc3b89899b0952a7dbda1cf11e9db9b1df, Quantity: 256, Mints: 1\" href=\"/asset/asset1emj23j3mkgc0h3ks6pc0qd9e4qvsramgehu6qs\">[8BIT] <span class=\"d-none d-md-inline\">8-bit Integer Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1emj23j3mkgc0h3ks6pc0qd9e4qvsramgehu6qs\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1emj23j3mkgc0h3ks6pc0qd9e4qvsramgehu6qs\"></i> asset1emj2...hu6qs</div>",
             "volume": "-",
             "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"1,925.00\">1.<small class=\"text-muted\">93</small>k</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"11,821.00\">11.<small class=\"text-muted\">82</small>k</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"45,000,000,000.00\">45.<small class=\"text-muted\">00</small>B</span>",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"256.00\">256</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/6/d/4/8/9/asset17s6jml34q59t4r8vyz2kl0etelfxytuw8mwrf8.png\"> <a class=\"d-none d-md-inline\" href=\"https://adaswap.app/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Swap, bridge &amp; trade between Cardano-based tokens!, Policy: 41a255debdfe6c25eba00d82fb70e09bb3a12925b49ffddd95422455, Quantity: 10.00B, Mints: 3\" href=\"/asset/asset17s6jml34q59t4r8vyz2kl0etelfxytuw8mwrf8\">[ASW] <span class=\"d-none d-md-inline\">AdaSwap</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset17s6jml34q59t4r8vyz2kl0etelfxytuw8mwrf8\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset17s6jml34q59t4r8vyz2kl0etelfxytuw8mwrf8\"></i> asset17s6j...mwrf8</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/5/0/1/9/e/asset15n64v3muzemkfdt2v0da6kuhq6f468lks3j2g6.png\">  <a data-bs-toggle=\"tooltip\" title=\"Cue Card Wally uses crypto for financial rewards, Policy: 52f6791991c041c808b797e0a558e875e3910917409a159510eb7916, Quantity: 22.00M, Mints: 1\" href=\"/asset/asset15n64v3muzemkfdt2v0da6kuhq6f468lks3j2g6\">[WALLY] <span class=\"d-none d-md-inline\">Wally Coin</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset15n64v3muzemkfdt2v0da6kuhq6f468lks3j2g6\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset15n64v3muzemkfdt2v0da6kuhq6f468lks3j2g6\"></i> asset15n64...3j2g6</div>",
             "volume": "-",
             "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"44.00\">44</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"362.00\">362</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"10,000,000,000.00\">10.<small class=\"text-muted\">00</small>B</span>",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"22,000,000.00\">22.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/1/d/e/a/c/asset1rjr0hjtaj33x603ld3ef5vnkppk3nz3wlyda9n.png\"> <a class=\"d-none d-md-inline\" href=\"https://bit.ly/3IfIIJV?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Byrd Coin used within our golfing ecosystem., Policy: e3a819889a9529272296807a21028978dfe4bc44696c7b3305763fed, Quantity: 1.00B, Mints: 1\" href=\"/asset/asset1rjr0hjtaj33x603ld3ef5vnkppk3nz3wlyda9n\">[BYRD] <span class=\"d-none d-md-inline\">ByrdCoin</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1rjr0hjtaj33x603ld3ef5vnkppk3nz3wlyda9n\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1rjr0hjtaj33x603ld3ef5vnkppk3nz3wlyda9n\"></i> asset1rjr0...yda9n</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/c/6/5/6/f/asset1wzlvstqs5r32t8jwrsllysmt6405srdzd555ul.png\"> <a class=\"d-none d-md-inline\" href=\"https://goskyward.org/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"SKY Coin is a Cardano based token that will turn trash into cash. Give us your plastic and we\u2019ll give you our crypto for free. We\u2019re building tiny homes from recycled polymers to end homelessness and clean up the environment. Recycling | Crypto | Mutualism , Policy: 873e62c27604ec4ae6bfa0bb912bd45a207d2b0f135860bc90bb2836, Quantity: 7.77T, Mints: 1\" href=\"/asset/asset1wzlvstqs5r32t8jwrsllysmt6405srdzd555ul\">[SKY] <span class=\"d-none d-md-inline\">SKY Coin </span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1wzlvstqs5r32t8jwrsllysmt6405srdzd555ul\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1wzlvstqs5r32t8jwrsllysmt6405srdzd555ul\"></i> asset1wzlv...555ul</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"7,770,000,000,000.00\">7.<small class=\"text-muted\">77</small>T</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/e/4/7/6/2/asset1hmnj6s9ar8l8pakxp3zslh25nvrzzjs0x0zjxh.png\"> <a class=\"d-none d-md-inline\" href=\"https://asgardcnft.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"A Cardano native token sensualizing  Freyja - Goddess of Love, Policy: e043081e11575b51a1b478ff4c815f654dce3152c54ccb0c450d6313, Quantity: 1.00B, Mints: 1\" href=\"/asset/asset1hmnj6s9ar8l8pakxp3zslh25nvrzzjs0x0zjxh\">[FREYJA] <span class=\"d-none d-md-inline\">Freyja</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1hmnj6s9ar8l8pakxp3zslh25nvrzzjs0x0zjxh\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1hmnj6s9ar8l8pakxp3zslh25nvrzzjs0x0zjxh\"></i> asset1hmnj...0zjxh</div>",
             "volume": "-",
             "price": "-",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
@@ -938,84 +878,168 @@
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/4/9/e/e/3/asset1tmj398ry7ta8whqekrj3hsn684anqexl07un2q.png\"> <a class=\"d-none d-md-inline\" href=\"https://cardanonativetokens.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"A Cardano native token glorifying the skunk, Policy: d8d7299eee3283564e590052151f7f0e72bcc2d2eb977f95c5fd5710, Quantity: 1.02B, Mints: 1\" href=\"/asset/asset1tmj398ry7ta8whqekrj3hsn684anqexl07un2q\">[SKUNK] <span class=\"d-none d-md-inline\">Skunk</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1tmj398ry7ta8whqekrj3hsn684anqexl07un2q\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1tmj398ry7ta8whqekrj3hsn684anqexl07un2q\"></i> asset1tmj3...7un2q</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/c/6/a/1/0/asset1kqrdzxnvh0zvk95xz99kcm63ky8wwmz0pensne.png\">  <a data-bs-toggle=\"tooltip\" title=\"ORAEX COIN (ORX) is a ORAEX CLOUD CONSULTING cryptoactive that allows the purchase and sale of Information Technology services, products and its ecosystem of companies that involve partners and suppliers. The ORX token is on Cardano&#039;s platform and has its maximum supply of 10,000,000 tokens., Policy: 83b65a6bf87e0f52cf3ccd4a4c4a0503d939f3a51d11fc253f612fc8, Quantity: 10.00M, Mints: 1\" href=\"/asset/asset1kqrdzxnvh0zvk95xz99kcm63ky8wwmz0pensne\">[ORX] <span class=\"d-none d-md-inline\">ORAEXCOIN</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1kqrdzxnvh0zvk95xz99kcm63ky8wwmz0pensne\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1kqrdzxnvh0zvk95xz99kcm63ky8wwmz0pensne\"></i> asset1kqrd...ensne</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"10,000,001.00\">10.<small class=\"text-muted\">00</small>M</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/0/0/3/9/5/asset12lk062z2jeswltn3q6xrys4v4m9rphc7makxk3.png\">  <a data-bs-toggle=\"tooltip\" title=\"Doctrinal Silver, Policy: fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f7, Quantity: 10.00M, Mints: 3\" href=\"/asset/asset12lk062z2jeswltn3q6xrys4v4m9rphc7makxk3\">[CD] <span class=\"d-none d-md-inline\">Cardano Silver</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset12lk062z2jeswltn3q6xrys4v4m9rphc7makxk3\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset12lk062z2jeswltn3q6xrys4v4m9rphc7makxk3\"></i> asset12lk0...akxk3</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"767.00\">767</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"1,087.00\">1.<small class=\"text-muted\">09</small>k</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"10,000,000.00\">10.<small class=\"text-muted\">00</small>M</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><a class=\"d-none d-md-inline\" href=\"https://cardania.com/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Cardania Founder&#039;s Card - Red, Policy: ccb3577601d6cf0e021288871112926338bee685c6c37eeadf6dddd9, Quantity: 2.50k, Mints: 1\" href=\"/asset/asset1dkl5pgu43gek0rgr6add7tja0kzkgq3zywnnuk\">[CDFC4] <span class=\"d-none d-md-inline\">CardaniaFounderRed</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1dkl5pgu43gek0rgr6add7tja0kzkgq3zywnnuk\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1dkl5pgu43gek0rgr6add7tja0kzkgq3zywnnuk\"></i> asset1dkl5...wnnuk</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"228.00\">228</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"1,044.00\">1.<small class=\"text-muted\">04</small>k</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"2,500.00\">2.<small class=\"text-muted\">50</small>k</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/0/1/f/9/1/asset1j63h2tu2z07y5epnrfhjhn5f8fvyu60j6jsu5v.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.cardanogoldcoin.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Cardano Gold (CARGO) is the 1st Cardano store of value, Policy: ccdd2f5e413cb5afc9ffb482d32fc175aaef6477567869ec8f0a16c1, Quantity: 10.00M, Mints: 1\" href=\"/asset/asset1j63h2tu2z07y5epnrfhjhn5f8fvyu60j6jsu5v\">[CARGO] <span class=\"d-none d-md-inline\">Cardano Gold</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1j63h2tu2z07y5epnrfhjhn5f8fvyu60j6jsu5v\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1j63h2tu2z07y5epnrfhjhn5f8fvyu60j6jsu5v\"></i> asset1j63h...jsu5v</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"38.00\">38</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"277.00\">277</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"10,000,000.00\">10.<small class=\"text-muted\">00</small>M</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/4/6/4/9/3/asset1jklmte4ewawuu72gtq8xjzx7sjakcaunl9fnk3.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.guldentoken.xyz?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Nederlandse Gulden, Policy: f786033b1b4175b0f8940882bde271ce92ad81cd1d792f18e952264d, Quantity: 1.00B, Mints: 1\" href=\"/asset/asset1jklmte4ewawuu72gtq8xjzx7sjakcaunl9fnk3\">[NLG] <span class=\"d-none d-md-inline\">Gulden</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1jklmte4ewawuu72gtq8xjzx7sjakcaunl9fnk3\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1jklmte4ewawuu72gtq8xjzx7sjakcaunl9fnk3\"></i> asset1jklm...9fnk3</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,000,000,000.00\">1.<small class=\"text-muted\">00</small>B</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/6/6/4/0/d/asset16e76ecwqnypk7l3nahx3e82utg2kj9646fxl0w.png\"> <a class=\"d-none d-md-inline\" href=\"https://cardanonuts.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"A currency for CardanoNuts, Policy: ccd2089baba4d6c45d7244c7b0593b96034dacca3123180420a3ecf3, Quantity: 21.00M, Mints: 2\" href=\"/asset/asset16e76ecwqnypk7l3nahx3e82utg2kj9646fxl0w\">[LEAF] <span class=\"d-none d-md-inline\">Leaf</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset16e76ecwqnypk7l3nahx3e82utg2kj9646fxl0w\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset16e76ecwqnypk7l3nahx3e82utg2kj9646fxl0w\"></i> asset16e76...fxl0w</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"21,000,200.00\">21.<small class=\"text-muted\">00</small>M</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/f/3/4/0/6/asset1swatz43pqcr24d3sexjme4qttppsx2y53yvcse.png\"> <a class=\"d-none d-md-inline\" href=\"https://metaspacepad.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"VOID, Policy: 230ad52f87dde3e38dcf01521dc5c0e62f611cb528917fef2fe6ef8d, Quantity: 450.00M, Mints: 1\" href=\"/asset/asset1swatz43pqcr24d3sexjme4qttppsx2y53yvcse\">[ACE] <span class=\"d-none d-md-inline\">VOID</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1swatz43pqcr24d3sexjme4qttppsx2y53yvcse\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1swatz43pqcr24d3sexjme4qttppsx2y53yvcse\"></i> asset1swat...yvcse</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"450,000,000.00\">450.<small class=\"text-muted\">00</small>M</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/6/8/a/c/2/asset1rvz9rw3mtgxm749hrmpdtyu2s3jsuykcnsypzx.png\"> <a class=\"d-none d-md-inline\" href=\"https://capgold.org?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The Ultimate Palladium-Backed Cryptocurrency!, Policy: 52bdfb05fa225bd501c16d4ed43af7c526480c0a4eac7963ea8b62b9, Quantity: 10.00M, Mints: 1\" href=\"/asset/asset1rvz9rw3mtgxm749hrmpdtyu2s3jsuykcnsypzx\">[CAPALLA] <span class=\"d-none d-md-inline\">Capalladium</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1rvz9rw3mtgxm749hrmpdtyu2s3jsuykcnsypzx\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1rvz9rw3mtgxm749hrmpdtyu2s3jsuykcnsypzx\"></i> asset1rvz9...sypzx</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"10,000,000.00\">10.<small class=\"text-muted\">00</small>M</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/9/e/1/3/b/asset1qgg4z99294jymncvl8avekycy5ug29vg6xnffw.png\"> <a class=\"d-none d-md-inline\" href=\"https://resi.works?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"RESI Token from Living Greens Urban Farm, Policy: b7c783f6304eddbdf8f0dece4715d63cb9f453be89d97c8fba155d57, Quantity: 29.00B, Mints: 2\" href=\"/asset/asset1qgg4z99294jymncvl8avekycy5ug29vg6xnffw\">[RESI] <span class=\"d-none d-md-inline\">RESI</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1qgg4z99294jymncvl8avekycy5ug29vg6xnffw\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1qgg4z99294jymncvl8avekycy5ug29vg6xnffw\"></i> asset1qgg4...xnffw</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"2,934.00\">2.<small class=\"text-muted\">93</small>k</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"30,707.00\">30.<small class=\"text-muted\">71</small>k</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"29,001,000,000.00\">29.<small class=\"text-muted\">00</small>B</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/f/e/3/9/3/asset1fy23has56dve5p4phdfdf6ra30gk98fywgcflg.png\"> <a class=\"d-none d-md-inline\" href=\"https://urent-token.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"URENT Token, Policy: f4f2398897dfe4abf91232435b48b85133a24b5ae2109be9c171b3dd, Quantity: 460.00M, Mints: 1\" href=\"/asset/asset1fy23has56dve5p4phdfdf6ra30gk98fywgcflg\">[URENT] <span class=\"d-none d-md-inline\">URENT</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1fy23has56dve5p4phdfdf6ra30gk98fywgcflg\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1fy23has56dve5p4phdfdf6ra30gk98fywgcflg\"></i> asset1fy23...gcflg</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"460,000,000.00\">460.<small class=\"text-muted\">00</small>M</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/8/f/c/a/2/asset1y34p9dsex224fj7w55kke5ygy2qp6vyhqjkese.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.dogeada.org/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"DogeADA coin is a meme coin on cardano ecosystem, Policy: b4273f1d8d0021d188784c3d72dc514f602b7ab8cfb87e3134550c42, Quantity: 1.00T, Mints: 1\" href=\"/asset/asset1y34p9dsex224fj7w55kke5ygy2qp6vyhqjkese\">[DGADA] <span class=\"d-none d-md-inline\">DogeADA</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1y34p9dsex224fj7w55kke5ygy2qp6vyhqjkese\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1y34p9dsex224fj7w55kke5ygy2qp6vyhqjkese\"></i> asset1y34p...jkese</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"1,287.00\">1.<small class=\"text-muted\">29</small>k</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"3,482.00\">3.<small class=\"text-muted\">48</small>k</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,000,000,000,000.00\">1.<small class=\"text-muted\">00</small>T</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/e/4/5/1/e/asset19j2ukcftudnefqph0qxgkcj5x3aclghr9d00tg.png\">  <a data-bs-toggle=\"tooltip\" title=\"Cardano will change the world (if you let us), Policy: 4277e4f35a882feea704d0e33ccaf235a8bd2c7250608df352981d05, Quantity: 45.00k, Mints: 1\" href=\"/asset/asset19j2ukcftudnefqph0qxgkcj5x3aclghr9d00tg\">[CAR] <span class=\"d-none d-md-inline\">Carcano</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset19j2ukcftudnefqph0qxgkcj5x3aclghr9d00tg\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset19j2ukcftudnefqph0qxgkcj5x3aclghr9d00tg\"></i> asset19j2u...d00tg</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"1.00\">1</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"4.00\">4</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"45,000.00\">45.<small class=\"text-muted\">00</small>k</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/7/5/7/6/0/asset1sw92uanr2w5d6st2r9l6u3lzfqzc5em4fx0c3t.png\"> <a class=\"d-none d-md-inline\" href=\"https://trustfi.space?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"TRUST Pool reward token, Policy: 89ae7a3c1cbfbe8fcaed5387eac0cce3ae8402cc995fd9e7fd271ba1, Quantity: 36.00M, Mints: 1\" href=\"/asset/asset1sw92uanr2w5d6st2r9l6u3lzfqzc5em4fx0c3t\">[STORi] <span class=\"d-none d-md-inline\">STORi Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1sw92uanr2w5d6st2r9l6u3lzfqzc5em4fx0c3t\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1sw92uanr2w5d6st2r9l6u3lzfqzc5em4fx0c3t\"></i> asset1sw92...x0c3t</div>",
             "volume": "-",
             "price": "-",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"1.00\">1</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"2.00\">2</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,020,000,000.00\">1.<small class=\"text-muted\">02</small>B</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"36,000,000.00\">36.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/c/3/c/e/a/asset1005wptruqq27365zdfqtxnd7wdw6ly0w0hlk3q.png\"> <a class=\"d-none d-md-inline\" href=\"https://hedgespool.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Governance token for the Hedges Stake Pool, Policy: f06ce8556c0f9ebfdfe852292a8a66d7c75f38aceefa1fa9fbc60368, Quantity: 1.00B, Mints: 4\" href=\"/asset/asset1005wptruqq27365zdfqtxnd7wdw6ly0w0hlk3q\">[HEDGZ] <span class=\"d-none d-md-inline\">HedgeCoin</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1005wptruqq27365zdfqtxnd7wdw6ly0w0hlk3q\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1005wptruqq27365zdfqtxnd7wdw6ly0w0hlk3q\"></i> asset1005w...hlk3q</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/d/b/0/d/c/asset1pcem36jtnaare8upwgdm7l8m5f04r8389xmrys.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.charlz.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The project that is pioneering MemeFi, Policy: e9c28a71273f825b13f38244ccf1fea97c4025813610d01a7c5d681f, Quantity: 73.00T, Mints: 29\" href=\"/asset/asset1pcem36jtnaare8upwgdm7l8m5f04r8389xmrys\">[CHRLZ] <span class=\"d-none d-md-inline\">Charlz Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1pcem36jtnaare8upwgdm7l8m5f04r8389xmrys\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1pcem36jtnaare8upwgdm7l8m5f04r8389xmrys\"></i> asset1pcem...xmrys</div>",
             "volume": "-",
             "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,000,000,000.00\">1.<small class=\"text-muted\">00</small>B</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/f/8/1/2/b/asset1pag8emf08wk9q9nv8znev2u9gjqnsnw89eahw0.png\"> <a class=\"d-none d-md-inline\" href=\"https://linuxjourney.com/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The utility token of test, Policy: 11add6497baf92c8a4ff40e425cac4dac3f0145e76cfc937b2db1900, Quantity: 1.00B, Mints: 1\" href=\"/asset/asset1pag8emf08wk9q9nv8znev2u9gjqnsnw89eahw0\">[TCN] <span class=\"d-none d-md-inline\">Testcoin</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1pag8emf08wk9q9nv8znev2u9gjqnsnw89eahw0\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1pag8emf08wk9q9nv8znev2u9gjqnsnw89eahw0\"></i> asset1pag8...eahw0</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,000,000,000.00\">1.<small class=\"text-muted\">00</small>B</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/f/8/e/3/e/asset1d080qq9kp4zq3jsyvzy0cv0g4txrrzenqe632t.png\"> <a class=\"d-none d-md-inline\" href=\"https://goada.net?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The GOADA Token is the deflationary token created and used by the GOADA Stake Pool, Policy: c6e8c5e0074becdec6c4eba85b2dc7e4308df7d3be02ee0c0bf8307d, Quantity: 9.15k, Mints: 2\" href=\"/asset/asset1d080qq9kp4zq3jsyvzy0cv0g4txrrzenqe632t\">[GOADA] <span class=\"d-none d-md-inline\">GOADA Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1d080qq9kp4zq3jsyvzy0cv0g4txrrzenqe632t\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1d080qq9kp4zq3jsyvzy0cv0g4txrrzenqe632t\"></i> asset1d080...e632t</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"2.00\">2</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"13.00\">13</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"9,150.00\">9.<small class=\"text-muted\">15</small>k</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/c/f/4/b/6/asset1pjlzwadq0ed73z4p7l26lptnxwvgrs2xgaekmw.png\">  <a data-bs-toggle=\"tooltip\" title=\"GHC a Cardano token to power the GREN marketplace &amp; more, Policy: 01332334e96294ad39016bc8fa1e40ec05d601e9e27a83942739fe78, Quantity: 369.00M, Mints: 1\" href=\"/asset/asset1pjlzwadq0ed73z4p7l26lptnxwvgrs2xgaekmw\">[GHC] <span class=\"d-none d-md-inline\">Galactic Honey Credit</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1pjlzwadq0ed73z4p7l26lptnxwvgrs2xgaekmw\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1pjlzwadq0ed73z4p7l26lptnxwvgrs2xgaekmw\"></i> asset1pjlz...aekmw</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"369,000,000.00\">369.<small class=\"text-muted\">00</small>M</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/3/0/2/a/5/asset1yll5wkwqh2s6q5jmx3rgck69veznaxnmgv89wg.png\"> <a class=\"d-none d-md-inline\" href=\"https://blocknotes.ne0.xyz?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Cardano Blockchain Cash, Policy: d4d256db551bd4555625d1753c2a2503962e634de61cc8d2617e30d8, Quantity: 100.00k, Mints: 1\" href=\"/asset/asset1yll5wkwqh2s6q5jmx3rgck69veznaxnmgv89wg\">[B1] <span class=\"d-none d-md-inline\">1BLOCKNOTE</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1yll5wkwqh2s6q5jmx3rgck69veznaxnmgv89wg\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1yll5wkwqh2s6q5jmx3rgck69veznaxnmgv89wg\"></i> asset1yll5...v89wg</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"100,000.00\">100.<small class=\"text-muted\">00</small>k</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/0/9/4/6/e/asset1p4nhs5chj3dz80ref08ej9csvzdn8yhx95zrey.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.lightartvr.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Light Art VR token powers our 3D and VR Asset environment to create NFT Collectables, Policy: fbb238009cbc914004e7d1efbc41a56998152423f474edc3bbc22f45, Quantity: 100.00M, Mints: 1\" href=\"/asset/asset1p4nhs5chj3dz80ref08ej9csvzdn8yhx95zrey\">[LAVR] <span class=\"d-none d-md-inline\">Light Art VR</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1p4nhs5chj3dz80ref08ej9csvzdn8yhx95zrey\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1p4nhs5chj3dz80ref08ej9csvzdn8yhx95zrey\"></i> asset1p4nh...5zrey</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"100,000,000.00\">100.<small class=\"text-muted\">00</small>M</span>",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"1,430.00\">1.<small class=\"text-muted\">43</small>k</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"3,975.00\">3.<small class=\"text-muted\">98</small>k</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"73,000,000,000,000.00\">73.<small class=\"text-muted\">00</small>T</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
@@ -1034,119 +1058,95 @@
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/5/1/7/7/4/asset1ffdqkzv9hlygxy4y0tg4s7n6dyg4prcajtcrvw.png\"> <a class=\"d-none d-md-inline\" href=\"https://blackrocket.space?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Black Rocket token (BLR) represents some initiatives in the blockchain area: EnCrypto Portfolio Offline (Mobile Android/iOS app for crypto assets), ADA Rocket (monitoring tools + mobile app for SPOs), and SPO for the Cardano node [BLACK]. Find more on our website, join our discord and telegram communities.., Policy: b588e13e123f6b79c867f507311ded8fd68015c59d238e89eabb494f, Quantity: 5.00M, Mints: 1\" href=\"/asset/asset1ffdqkzv9hlygxy4y0tg4s7n6dyg4prcajtcrvw\">[BLR] <span class=\"d-none d-md-inline\">BLR</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1ffdqkzv9hlygxy4y0tg4s7n6dyg4prcajtcrvw\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1ffdqkzv9hlygxy4y0tg4s7n6dyg4prcajtcrvw\"></i> asset1ffdq...tcrvw</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/6/4/c/e/3/asset1szankkyq9t6tgxdy7cx3vjeu3l5l9pzn48wd20.png\">  <a data-bs-toggle=\"tooltip\" title=\"A Cardano native token created for the Love of Elvis, Policy: 05ccf5207e0ffd0fc3548bb88dc8170b2e4ad7201f9b5b7034f943db, Quantity: 1.01B, Mints: 1\" href=\"/asset/asset1szankkyq9t6tgxdy7cx3vjeu3l5l9pzn48wd20\">[ELVIS] <span class=\"d-none d-md-inline\">Elvis</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1szankkyq9t6tgxdy7cx3vjeu3l5l9pzn48wd20\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1szankkyq9t6tgxdy7cx3vjeu3l5l9pzn48wd20\"></i> asset1szan...8wd20</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"1.00\">1</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"3.00\">3</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,010,000,000.00\">1.<small class=\"text-muted\">01</small>B</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/6/1/3/f/7/asset140xy506gmch8xmy2hhvh6n2393h4fmj905esle.png\"> <a class=\"d-none d-md-inline\" href=\"https://linktr.ee/thegnomies?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Episode 2 The meet up, Policy: 494bd44f8fa8080b62630839ece78d9942525c3bfcf1ffa6266b84c7, Quantity: 42, Mints: 1\" href=\"/asset/asset140xy506gmch8xmy2hhvh6n2393h4fmj905esle\">[Gnmtup] <span class=\"d-none d-md-inline\">The meet up</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset140xy506gmch8xmy2hhvh6n2393h4fmj905esle\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset140xy506gmch8xmy2hhvh6n2393h4fmj905esle\"></i> asset140xy...5esle</div>",
             "volume": "-",
             "price": "-",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"5,000,000.00\">5.<small class=\"text-muted\">00</small>M</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"42.00\">42</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/1/f/5/7/3/asset1eseyq2he07l7u7un3tw2yh9t8h3jf6vdm73r5z.png\"> <a class=\"d-none d-md-inline\" href=\"https://blocknotes.ne0.xyz?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Cardano Blockchain Cash, Policy: d4d256db551bd4555625d1753c2a2503962e634de61cc8d2617e30d8, Quantity: 50, Mints: 1\" href=\"/asset/asset1eseyq2he07l7u7un3tw2yh9t8h3jf6vdm73r5z\">[B2000] <span class=\"d-none d-md-inline\">2000BLOCKNOTE</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1eseyq2he07l7u7un3tw2yh9t8h3jf6vdm73r5z\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1eseyq2he07l7u7un3tw2yh9t8h3jf6vdm73r5z\"></i> asset1esey...73r5z</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/1/6/c/9/f/asset1wqsspgcn9ymxu5kk8lzwludktztxpf20du7hvx.png\"> <a class=\"d-none d-md-inline\" href=\"https://beelzecoin.org?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Official currency and smart contracts for Beelzebub, Policy: 78cfc6ee236bf63e360d423158d1b6c11628d268c9c7f9264bf048fa, Quantity: 666.67M, Mints: 1\" href=\"/asset/asset1wqsspgcn9ymxu5kk8lzwludktztxpf20du7hvx\">[DVL] <span class=\"d-none d-md-inline\">Beelzecoin</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1wqsspgcn9ymxu5kk8lzwludktztxpf20du7hvx\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1wqsspgcn9ymxu5kk8lzwludktztxpf20du7hvx\"></i> asset1wqss...u7hvx</div>",
             "volume": "-",
             "price": "-",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"50.00\">50</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"666,666,666.00\">666.<small class=\"text-muted\">67</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"> <a data-bs-toggle=\"tooltip\" title=\"Cardano Community Charity Coin, Policy: ba94ebd43273e746212efa82ee89abd24356454482853b799d5834cf, Quantity: 1,000.00T, Mints: 1\" href=\"/asset/asset17lmeyvv4ux92a6ffkdt6m6903wmxwk69yjsxyh\">[CCCC] <span class=\"d-none d-md-inline\">Cardano Community Charity Coin</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset17lmeyvv4ux92a6ffkdt6m6903wmxwk69yjsxyh\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset17lmeyvv4ux92a6ffkdt6m6903wmxwk69yjsxyh\"></i> asset17lme...jsxyh</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"21.00\">21</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"88.00\">88</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,000,000,000,000,000.00\">1,000.<small class=\"text-muted\">00</small>T</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/7/e/5/d/c/asset1pzwy5w9ghw5rsv78e0mg28pklql84rds3v63wn.png\"> <a class=\"d-none d-md-inline\" href=\"https://blocknotes.ne0.xyz?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Cardano Blockchain Cash, Policy: d4d256db551bd4555625d1753c2a2503962e634de61cc8d2617e30d8, Quantity: 500, Mints: 1\" href=\"/asset/asset1pzwy5w9ghw5rsv78e0mg28pklql84rds3v63wn\">[B200] <span class=\"d-none d-md-inline\">200BLOCKNOTE</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1pzwy5w9ghw5rsv78e0mg28pklql84rds3v63wn\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1pzwy5w9ghw5rsv78e0mg28pklql84rds3v63wn\"></i> asset1pzwy...v63wn</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"500.00\">500</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/8/4/0/c/c/asset1w9w4hgerhac7xd9s25efxjaducnsjryaw77zaz.png\">  <a data-bs-toggle=\"tooltip\" title=\"ErgoPool Token, Policy: 88c0dd37291f35d52f954cbdc69a3dce8a777bc11c827596415916ab, Quantity: 97.74M, Mints: 1\" href=\"/asset/asset1w9w4hgerhac7xd9s25efxjaducnsjryaw77zaz\">[ErgoP] <span class=\"d-none d-md-inline\">ErgoPool</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1w9w4hgerhac7xd9s25efxjaducnsjryaw77zaz\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1w9w4hgerhac7xd9s25efxjaducnsjryaw77zaz\"></i> asset1w9w4...77zaz</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"21.00\">21</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"90.00\">90</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"97,739,924.00\">97.<small class=\"text-muted\">74</small>M</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/a/1/6/c/8/asset13kmp2zqwlu2jxd7hpahxzl3xcpa6nnpel9pu22.png\"> <a class=\"d-none d-md-inline\" href=\"https://phabulous.org?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Decentralized Chess Platform, Policy: 2d69860def0cca6199bb3ad6f8cd94c875cd80f5f03ea4d3ac024618, Quantity: 2.00B, Mints: 3\" href=\"/asset/asset13kmp2zqwlu2jxd7hpahxzl3xcpa6nnpel9pu22\">[ANA] <span class=\"d-none d-md-inline\">Anastasia</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset13kmp2zqwlu2jxd7hpahxzl3xcpa6nnpel9pu22\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset13kmp2zqwlu2jxd7hpahxzl3xcpa6nnpel9pu22\"></i> asset13kmp...9pu22</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"2,000,000,000.00\">2.<small class=\"text-muted\">00</small>B</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/b/1/4/e/1/asset138x0ptxmmxydx80exlphrerv002apwjjgy82r8.png\"> <a class=\"d-none d-md-inline\" href=\"https://twitter.com/AdaApeBits?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The official token of Ada Ape Bits, Policy: 721f96b81933b34957d05bb050de2f1119e8379cb6223a36073e1a84, Quantity: 100.00M, Mints: 1\" href=\"/asset/asset138x0ptxmmxydx80exlphrerv002apwjjgy82r8\">[APE] <span class=\"d-none d-md-inline\">Ape Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset138x0ptxmmxydx80exlphrerv002apwjjgy82r8\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset138x0ptxmmxydx80exlphrerv002apwjjgy82r8\"></i> asset138x0...y82r8</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"18.00\">18</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"92.00\">92</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"100,000,000.00\">100.<small class=\"text-muted\">00</small>M</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/7/4/a/0/e/asset138kvgrt50ym6z2x238xtwv62sk99eelghrz6ds.png\"> <a class=\"d-none d-md-inline\" href=\"https://bisoncoin.io/?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Bison coin is a decentralized community powered Bison meme coin on cardano network, Policy: 2afb448ef716bfbed1dcb676102194c3009bee5399e93b90def9db6a, Quantity: 1,000.00T, Mints: 1\" href=\"/asset/asset138kvgrt50ym6z2x238xtwv62sk99eelghrz6ds\">[BISON] <span class=\"d-none d-md-inline\">Bison Coin</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset138kvgrt50ym6z2x238xtwv62sk99eelghrz6ds\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset138kvgrt50ym6z2x238xtwv62sk99eelghrz6ds\"></i> asset138kv...rz6ds</div>",
-            "volume": "-",
-            "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"3,660.00\">3.<small class=\"text-muted\">66</small>k</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"35,954.00\">35.<small class=\"text-muted\">95</small>k</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,000,000,000,000,000.00\">1,000.<small class=\"text-muted\">00</small>T</span>",
-            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
-            "1_day_change": "-",
-            "3_day_change": "-",
-            "7_day_change": "-"
-        },
-        {
-            "name": "<div class=\"text-nowrap\"><a class=\"d-none d-md-inline\" href=\"https://www.ada-sammy.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"$SAMMY, Policy: c4633be4cee0416c4fdb4079f3eea3a92b64b5562beae8cb04a5060d, Quantity: 500.00T, Mints: 1\" href=\"/asset/asset1pad3knaxpvqzqh50wu4p5lm9w69ddmjuq6rlfv\">[SAMMY] <span class=\"d-none d-md-inline\">SAMMY Token</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1pad3knaxpvqzqh50wu4p5lm9w69ddmjuq6rlfv\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1pad3knaxpvqzqh50wu4p5lm9w69ddmjuq6rlfv\"></i> asset1pad3...6rlfv</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/3/2/c/6/8/asset1kjhrpd0mxq473dx65jyenqp3rr43779pzuj8h3.png\">  <a data-bs-toggle=\"tooltip\" title=\"Rare Asset, Policy: 894212cbfc91f506fd273a9814625c425477790a35bda34e13a1c167, Quantity: 100.00k, Mints: 1\" href=\"/asset/asset1kjhrpd0mxq473dx65jyenqp3rr43779pzuj8h3\">[TAX] <span class=\"d-none d-md-inline\">TAX Asset</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1kjhrpd0mxq473dx65jyenqp3rr43779pzuj8h3\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1kjhrpd0mxq473dx65jyenqp3rr43779pzuj8h3\"></i> asset1kjhr...uj8h3</div>",
             "volume": "-",
             "price": "-",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"5.00\">5</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"30.00\">30</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"500,000,000,000,000.00\">500.<small class=\"text-muted\">00</small>T</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"31.00\">31</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"100,000.00\">100.<small class=\"text-muted\">00</small>k</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><a class=\"d-none d-md-inline\" href=\"https://cardano.ideascale.com/c/idea/405243?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Adagotchi use these tokens to travel through the blockchain., Policy: aea1ceb3625680e2f7a31ea1a64c9c430c34d8588bf4f8e3c7f9b1dd, Quantity: 1.00B, Mints: 4\" href=\"/asset/asset1mpuaalj3ccc7vfecsgp796t2dn62qtccar4w40\">[GTCHI] <span class=\"d-none d-md-inline\">Gotchi</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1mpuaalj3ccc7vfecsgp796t2dn62qtccar4w40\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1mpuaalj3ccc7vfecsgp796t2dn62qtccar4w40\"></i> asset1mpua...r4w40</div>",
+            "name": "<div class=\"text-nowrap\"> <a data-bs-toggle=\"tooltip\" title=\"Clam machine go shloop, Policy: 436649cee1a57ab2ab38a8be97003870b7fe7f1489706090e5be4b64, Quantity: 30.00T, Mints: 1\" href=\"/asset/asset1d43k4azgjlu7uhvdlurxk5n8kd0dn7ftj9ehrm\">[CLAMS] <span class=\"d-none d-md-inline\">clams</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1d43k4azgjlu7uhvdlurxk5n8kd0dn7ftj9ehrm\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1d43k4azgjlu7uhvdlurxk5n8kd0dn7ftj9ehrm\"></i> asset1d43k...9ehrm</div>",
             "volume": "-",
             "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"2,103.00\">2.<small class=\"text-muted\">10</small>k</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"7,543.00\">7.<small class=\"text-muted\">54</small>k</span>",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"671.00\">671</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"1,877.00\">1.<small class=\"text-muted\">88</small>k</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"30,000,000,000,000.00\">30.<small class=\"text-muted\">00</small>T</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/4/6/3/6/3/asset1v2r8494jvumsel2gxfzh9e4d8ngnz4usexucrp.png\">  <a data-bs-toggle=\"tooltip\" title=\"One Cardano Fam, Policy: fc293ccd70bb23a397f3c1457e53bd1afb0be07f568556d2ef278b45, Quantity: 7.78M, Mints: 3\" href=\"/asset/asset1v2r8494jvumsel2gxfzh9e4d8ngnz4usexucrp\">[OCF] <span class=\"d-none d-md-inline\">Cardano Fam Coin</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1v2r8494jvumsel2gxfzh9e4d8ngnz4usexucrp\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1v2r8494jvumsel2gxfzh9e4d8ngnz4usexucrp\"></i> asset1v2r8...xucrp</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"3.00\">3</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"10.00\">10</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"7,777,777.00\">7.<small class=\"text-muted\">78</small>M</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/e/6/5/d/0/asset1ydv9ntjhhrdc6pqn2j4z8d2xh8k3079yf8896l.png\">  <a data-bs-toggle=\"tooltip\" title=\"A Cardano native token  honoring cockroaches of the world, Policy: 6c8dd29f6e1b6c98ca46486005bb2b769cd3c1a63022c472e72817ae, Quantity: 1.01B, Mints: 1\" href=\"/asset/asset1ydv9ntjhhrdc6pqn2j4z8d2xh8k3079yf8896l\">[ROACH] <span class=\"d-none d-md-inline\">Roach</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1ydv9ntjhhrdc6pqn2j4z8d2xh8k3079yf8896l\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1ydv9ntjhhrdc6pqn2j4z8d2xh8k3079yf8896l\"></i> asset1ydv9...8896l</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"1.00\">1</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"3.00\">3</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,010,000,000.00\">1.<small class=\"text-muted\">01</small>B</span>",
+            "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
+            "1_day_change": "-",
+            "3_day_change": "-",
+            "7_day_change": "-"
+        },
+        {
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/4/e/6/a/7/asset18nzp9x39q2uafrqnpd4p0nxdg3m7eg49dmt9dv.png\"> <a class=\"d-none d-md-inline\" href=\"https://acardex.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\" Acardex is an AMM based decentralized exchange on the Cardano blockchain., Policy: 6130574c48e07ae7799537340cdb2d5c8e3c9137312c871ac4ea2797, Quantity: 1.00B, Mints: 1\" href=\"/asset/asset18nzp9x39q2uafrqnpd4p0nxdg3m7eg49dmt9dv\">[ACX] <span class=\"d-none d-md-inline\">Acardex</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset18nzp9x39q2uafrqnpd4p0nxdg3m7eg49dmt9dv\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset18nzp9x39q2uafrqnpd4p0nxdg3m7eg49dmt9dv\"></i> asset18nzp...mt9dv</div>",
+            "volume": "-",
+            "price": "-",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"18.00\">18</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"187.00\">187</span>",
             "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,000,000,000.00\">1.<small class=\"text-muted\">00</small>B</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
@@ -1154,48 +1154,48 @@
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/1/b/e/5/d/asset1cmns4v2wzhktmm52d0gz49gfualk5d2upp3k4h.png\">  <a data-bs-toggle=\"tooltip\" title=\"An Easter Egg!, Policy: 8b59c28dd174e8f99a9462d7559f9c58f96439d26e257031420eaad3, Quantity: 13.37M, Mints: 1\" href=\"/asset/asset1cmns4v2wzhktmm52d0gz49gfualk5d2upp3k4h\">[egg] <span class=\"d-none d-md-inline\">Cardano Easter Egg</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1cmns4v2wzhktmm52d0gz49gfualk5d2upp3k4h\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1cmns4v2wzhktmm52d0gz49gfualk5d2upp3k4h\"></i> asset1cmns...p3k4h</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/3/8/c/7/f/asset1culf49v2s4ch0s2uw9x256v63td0gc9wn0y2r3.png\"> <a class=\"d-none d-md-inline\" href=\"https://asgardcnft.com?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"A Cardano native token beautifying Frigg - Goddess of Motherhood, Policy: bb865b8462081a3ba9703a6b6c43032f088b4a4627c89eeeefa4a52b, Quantity: 1.00B, Mints: 1\" href=\"/asset/asset1culf49v2s4ch0s2uw9x256v63td0gc9wn0y2r3\">[FRiGG] <span class=\"d-none d-md-inline\">Frigg</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1culf49v2s4ch0s2uw9x256v63td0gc9wn0y2r3\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1culf49v2s4ch0s2uw9x256v63td0gc9wn0y2r3\"></i> asset1culf...0y2r3</div>",
             "volume": "-",
             "price": "-",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"13,373,665.00\">13.<small class=\"text-muted\">37</small>M</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,000,000,000.00\">1.<small class=\"text-muted\">00</small>B</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/c/5/4/f/9/asset1pxuvvtmez20qxjkf39vx3c94kg48cu9a68y34f.png\"> <a class=\"d-none d-md-inline\" href=\"https://blocknotes.ne0.xyz?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"Cardano Blockchain Cash, Policy: d4d256db551bd4555625d1753c2a2503962e634de61cc8d2617e30d8, Quantity: 20, Mints: 1\" href=\"/asset/asset1pxuvvtmez20qxjkf39vx3c94kg48cu9a68y34f\">[B5000] <span class=\"d-none d-md-inline\">5000BLOCKNOTE</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1pxuvvtmez20qxjkf39vx3c94kg48cu9a68y34f\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1pxuvvtmez20qxjkf39vx3c94kg48cu9a68y34f\"></i> asset1pxuv...8y34f</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/1/a/f/0/6/asset148z45jpxeqn0cqlq8eajcp9xfjjq82r0p6ppun.png\">  <a data-bs-toggle=\"tooltip\" title=\"j\u00e1 que todo mundo \u00e9 dono, eu tamb\u00e9m quero ser, Policy: 38149ef0f3886ffed88aa8cf9e4fdcc0e9243c3dc0b76e0a1ef37662, Quantity: 1.00M, Mints: 1\" href=\"/asset/asset148z45jpxeqn0cqlq8eajcp9xfjjq82r0p6ppun\">[BECK] <span class=\"d-none d-md-inline\">Clone da Macoin na Cardano</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset148z45jpxeqn0cqlq8eajcp9xfjjq82r0p6ppun\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset148z45jpxeqn0cqlq8eajcp9xfjjq82r0p6ppun\"></i> asset148z4...6ppun</div>",
             "volume": "-",
             "price": "-",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"20.00\">20</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,000,001.00\">1.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><a class=\"d-none d-md-inline\" href=\"https://tokens-fiver.s3.filebase.com/Gaia_crypto%20(1).png?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The official Earthonomy token, Policy: fd94d1e47dfd8edd54052c875d84b7e7fa1c57fcd51e0c1868331fb6, Quantity: 31.42B, Mints: 1\" href=\"/asset/asset14ltk55ld3j0ecpcq9p4xk245l7kww5graxrmg2\">[GAI] <span class=\"d-none d-md-inline\">Gaia</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset14ltk55ld3j0ecpcq9p4xk245l7kww5graxrmg2\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset14ltk55ld3j0ecpcq9p4xk245l7kww5graxrmg2\"></i> asset14ltk...xrmg2</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/f/3/a/a/2/asset1hvxju00mxhjhzsearjsdppu0eswgt9j0a4sps9.png\"> <a class=\"d-none d-md-inline\" href=\"https://twitter.com/1YoGooN?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"GooN is a digital currency, which is an alternative form of payment created using meticulous encryption algorithms. It functions both as a currency and a virtual accounting system. We hope that you will not only join us for the journey but stay for the after party. We will develop more and more uses for GooN as we grow. Our roadmap, whitepaper and info will be available.. We are here to answer questions and glad to be a member of the Cardano Ecosystem. Thank you for taking the time to read this., Policy: 33ea36f24a3451e3937ba088445ab6ce601de26563709cbfe68ac916, Quantity: 1.00T, Mints: 1\" href=\"/asset/asset1hvxju00mxhjhzsearjsdppu0eswgt9j0a4sps9\">[GooN] <span class=\"d-none d-md-inline\">GooN</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1hvxju00mxhjhzsearjsdppu0eswgt9j0a4sps9\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1hvxju00mxhjhzsearjsdppu0eswgt9j0a4sps9\"></i> asset1hvxj...4sps9</div>",
             "volume": "-",
             "price": "-",
             "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
             "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"31,415,926,535.00\">31.<small class=\"text-muted\">42</small>B</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"1,000,000,000,000.00\">1.<small class=\"text-muted\">00</small>T</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
             "7_day_change": "-"
         },
         {
-            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/b/1/4/d/2/asset166rlj0f428sdtsehrclzm4jkz9e8wu50r8j8m7.png\"> <a class=\"d-none d-md-inline\" href=\"https://www.scantoken.io?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"SCAN token power our data mining network and rewards users for participating in a gamified APP experience, Policy: 993b24c016b2793b0d4887d18adcad0bbed4726bcb07759498a28d7e, Quantity: 450.00M, Mints: 1\" href=\"/asset/asset166rlj0f428sdtsehrclzm4jkz9e8wu50r8j8m7\">[SCAN] <span class=\"d-none d-md-inline\">SCAN</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset166rlj0f428sdtsehrclzm4jkz9e8wu50r8j8m7\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset166rlj0f428sdtsehrclzm4jkz9e8wu50r8j8m7\"></i> asset166rl...8j8m7</div>",
+            "name": "<div class=\"text-nowrap\"><img width=\"28\" src=\"//img.cexplorer.io/5/c/a/7/c/asset1w73mv0elnleeqk5ssky345tmxf4l2ddhwrdkks.png\"> <a class=\"d-none d-md-inline\" href=\"https://fabul.art?utm_source=cexplorer.io\" rel=\"nofollow\" target=\"_blank\"><i data-feather=\"link\" class=\"fsmall\"></i></a> <a data-bs-toggle=\"tooltip\" title=\"The token for luxury and design NFTs of the metaverse, Policy: a1c1e3811c5adb591e026164a519eaf3d2708ee02e5712f891f80b78, Quantity: 10.00M, Mints: 1\" href=\"/asset/asset1w73mv0elnleeqk5ssky345tmxf4l2ddhwrdkks\">[FAB] <span class=\"d-none d-md-inline\">FAB</span></a></div>\r\n\t\t\t\t<div class=\"small text-muted text-nowrap d-none d-sm-inline\"><i data-feather=\"copy\" class=\"copy cursor-pointer fsmall\" data-bs-toggle=\"tooltip\" title=\"Copy: asset1w73mv0elnleeqk5ssky345tmxf4l2ddhwrdkks\" data-clipboard-action=\"copy\" onclick=\"return false\" data-clipboard-text=\"asset1w73mv0elnleeqk5ssky345tmxf4l2ddhwrdkks\"></i> asset1w73m...rdkks</div>",
             "volume": "-",
             "price": "-",
-            "trx": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "holders": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>",
-            "supply": "<span data-bs-toggle=\"tooltip\" title=\"450,000,000.00\">450.<small class=\"text-muted\">00</small>M</span>",
+            "trx": "<span data-bs-toggle=\"tooltip\" title=\"16.00\">16</span>",
+            "holders": "<span data-bs-toggle=\"tooltip\" title=\"143.00\">143</span>",
+            "supply": "<span data-bs-toggle=\"tooltip\" title=\"10,000,000.00\">10.<small class=\"text-muted\">00</small>M</span>",
             "market_cap": "<span data-bs-toggle=\"tooltip\" title=\"0.00\">0</span>\u20b3",
             "1_day_change": "-",
             "3_day_change": "-",
