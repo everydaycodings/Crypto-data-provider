@@ -1,48 +1,12 @@
 [
     {
-        "name": "Neo Fantasy",
-        "link": "https://icodrops.com/neo-fantasy/",
-        "logo": "https://icodrops.com/wp-content/uploads/2022/10/Auip7-2h_400x400-150x150.jpg",
-        "category": "Gaming",
-        "interest": "Not Rated",
-        "goal": "$1,500,000",
-        "date": "in 41h"
-    },
-    {
-        "name": "Backstage",
-        "link": "https://icodrops.com/backstage/",
-        "logo": "https://icodrops.com/wp-content/uploads/2022/10/bsbv-1e_400x400-150x150.jpg",
-        "category": "Blockchain Service",
-        "interest": "Not Rated",
-        "goal": "NOT SET",
-        "date": "16 Oct"
-    },
-    {
-        "name": "Mirl",
-        "link": "https://icodrops.com/mirl/",
-        "logo": "https://icodrops.com/wp-content/uploads/2022/02/LfaTnT5s_400x400-150x150.jpg",
-        "category": "Blockchain Service",
-        "interest": "Not Rated",
-        "goal": "$1,000,000",
-        "date": "17 Oct"
-    },
-    {
-        "name": "Ikonic",
-        "link": "https://icodrops.com/ikonic/",
-        "logo": "https://icodrops.com/wp-content/uploads/2022/05/ERiWelUQ_400x400-150x150.jpg",
-        "category": "Platform",
-        "interest": "Not Rated",
-        "goal": "$3,250,000",
-        "date": "18 Oct"
-    },
-    {
         "name": "Sense4Fit",
         "link": "https://icodrops.com/sense4fit/",
         "logo": "https://icodrops.com/wp-content/uploads/2022/10/tcQhE5nb_400x400-150x150.jpg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "NOT SET",
-        "date": "19 Oct"
+        "date": "in 1h"
     },
     {
         "name": "XDAO",
@@ -51,7 +15,7 @@
         "category": "Platform",
         "interest": "Not Rated",
         "goal": "NOT SET",
-        "date": "20 Oct"
+        "date": "in 20h"
     },
     {
         "name": "DeRace",
@@ -60,7 +24,16 @@
         "category": "Blockchain Service",
         "interest": "Not Rated",
         "goal": "$2,040,000",
-        "date": "20 Oct"
+        "date": "in 31h"
+    },
+    {
+        "name": "LP Finance",
+        "link": "https://icodrops.com/lp-finance/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/WzQOCLbj_400x400-150x150.jpg",
+        "category": "Blockchain Service",
+        "interest": "Not Rated",
+        "goal": "$190,000",
+        "date": "24 Oct"
     },
     {
         "name": "Moverse",
@@ -324,6 +297,150 @@
         "date": "Jan - Mar"
     },
     {
+        "name": "MynaSwap",
+        "link": "https://icodrops.com/mynaswap/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/UYDVvlZD_400x400-150x150.jpg",
+        "category": "Platform",
+        "interest": "Not Rated",
+        "goal": "$6,000,000",
+        "date": "TBA"
+    },
+    {
+        "name": "Blackbird",
+        "link": "https://icodrops.com/blackbird/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/lXu8g7r-_400x400-150x150.jpg",
+        "category": "Platform",
+        "interest": "Not Rated",
+        "goal": "$11,000,000",
+        "date": "TBA"
+    },
+    {
+        "name": "Lasso Labs",
+        "link": "https://icodrops.com/lasso-labs/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/vlbyA_vz_400x400-150x150.jpg",
+        "category": "Platform",
+        "interest": "Not Rated",
+        "goal": "$4,200,000",
+        "date": "TBA"
+    },
+    {
+        "name": "AlterVerse",
+        "link": "https://icodrops.com/alterverse/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/yLaw8Qbw_400x400-150x150.jpg",
+        "category": "Gaming",
+        "interest": "Not Rated",
+        "goal": "NOT SET",
+        "date": "TBA"
+    },
+    {
+        "name": "Gameta",
+        "link": "https://icodrops.com/gameta/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/d8JM3kNk_400x400-150x150.jpg",
+        "category": "Platform",
+        "interest": "Not Rated",
+        "goal": "NOT SET",
+        "date": "TBA"
+    },
+    {
+        "name": "Web3Go",
+        "link": "https://icodrops.com/web3go/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/zaZS4w0W_400x400-150x150.jpg",
+        "category": "Platform",
+        "interest": "Not Rated",
+        "goal": "NOT SET",
+        "date": "TBA"
+    },
+    {
+        "name": "Velvet Capital",
+        "link": "https://icodrops.com/velvet-capital/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/tYpL6jGL_400x400-150x150.png",
+        "category": "Investment",
+        "interest": "Not Rated",
+        "goal": "NOT SET",
+        "date": "TBA"
+    },
+    {
+        "name": "Multichain Event Protocol",
+        "link": "https://icodrops.com/multichain-event-protocol/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/\u0421\u043d\u0438\u043c\u043e\u043a-\u044d\u043a\u0440\u0430\u043d\u0430-2022-10-16-021918-150x150.png",
+        "category": "Protocol",
+        "interest": "Not Rated",
+        "goal": "NOT SET",
+        "date": "TBA"
+    },
+    {
+        "name": "Overeality",
+        "link": "https://icodrops.com/overeality/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/tpXSLN2i_400x400-150x150.jpg",
+        "category": "Blockchain Service",
+        "interest": "Not Rated",
+        "goal": "NOT SET",
+        "date": "TBA"
+    },
+    {
+        "name": "Thirdwave",
+        "link": "https://icodrops.com/thirdwave/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/IhHT5zZ_400x400-150x150.jpg",
+        "category": "Blockchain Service",
+        "interest": "Not Rated",
+        "goal": "$7,000,000",
+        "date": "TBA"
+    },
+    {
+        "name": "Exponential",
+        "link": "https://icodrops.com/exponential/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/H_wAkUn1_400x400-150x150.jpg",
+        "category": "Platform",
+        "interest": "Not Rated",
+        "goal": "$14,000,000",
+        "date": "TBA"
+    },
+    {
+        "name": "Minteo",
+        "link": "https://icodrops.com/minteo/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/LzbgPEj_400x400-150x150.png",
+        "category": "Marketplace",
+        "interest": "Not Rated",
+        "goal": "$4,300,000",
+        "date": "TBA"
+    },
+    {
+        "name": "Tactic",
+        "link": "https://icodrops.com/tactic/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/FoWW7ShJ_400x400-150x150.jpg",
+        "category": "Platform",
+        "interest": "Not Rated",
+        "goal": "$13,600,000",
+        "date": "TBA"
+    },
+    {
+        "name": "Blowfish",
+        "link": "https://icodrops.com/blowfish/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/vXBSU0oS_400x400-150x150.jpg",
+        "category": "Blockchain Service",
+        "interest": "Not Rated",
+        "goal": "$11,800,000",
+        "date": "TBA"
+    },
+    {
+        "name": "Solvo",
+        "link": "https://icodrops.com/solvo/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/m65eC6le_400x400-150x150.jpg",
+        "category": "Blockchain Service",
+        "interest": "Not Rated",
+        "goal": "$3,500,000",
+        "date": "TBA"
+    },
+    {
+        "name": "Re",
+        "link": "https://icodrops.com/re/",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/zK6Dqzxw_400x400-1-1-150x150.jpg",
+        "category": "Blockchain Service",
+        "interest": "Not Rated",
+        "goal": "$14,000,000",
+        "date": "TBA"
+    },
+    {
         "name": "OneKey",
         "link": "https://icodrops.com/onekey/",
         "logo": "https://icodrops.com/wp-content/uploads/2022/10/wUuNjzPg_400x400-150x150.jpg",
@@ -398,7 +515,7 @@
     {
         "name": "Krypton",
         "link": "https://icodrops.com/krypton/",
-        "logo": "https://icodrops.com/wp-content/uploads/2022/10/eIisKPF2_400x400-150x150.jpg",
+        "logo": "https://icodrops.com/wp-content/uploads/2022/10/sK2tEjjc_400x400-150x150.jpg",
         "category": "Exchange",
         "interest": "Not Rated",
         "goal": "$7,000,000",
@@ -3195,15 +3312,6 @@
         "date": "TBA"
     },
     {
-        "name": "Aptos",
-        "link": "https://icodrops.com/aptos/",
-        "logo": "https://icodrops.com/wp-content/uploads/2022/03/Aptos_logo-150x150.png",
-        "category": "Blockchain Service",
-        "interest": "Very High",
-        "goal": "$350,000,000",
-        "date": "TBA"
-    },
-    {
         "name": "Fuel Labs",
         "link": "https://icodrops.com/fuel-labs/",
         "logo": "https://icodrops.com/wp-content/uploads/2022/03/d6f-WNZv_400x400-150x150.jpg",
@@ -4532,7 +4640,7 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/08/DuneAnalytics_logo-150x150.png",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "$8,000,000",
+        "goal": "$79,420,000",
         "date": "TBA"
     },
     {
@@ -4577,7 +4685,7 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/08/Figment_logo-150x150.jpg",
         "category": "Blockchain Service",
         "interest": "Not Rated",
-        "goal": "$50,000,000",
+        "goal": "$162,500,000",
         "date": "TBA"
     },
     {
@@ -4631,7 +4739,7 @@
         "logo": "https://icodrops.com/wp-content/uploads/2021/07/HorizonBlockchainGame_logo-150x150.jpeg",
         "category": "Platform",
         "interest": "Not Rated",
-        "goal": "$13,000,000",
+        "goal": "$53,000,000",
         "date": "TBA"
     },
     {
